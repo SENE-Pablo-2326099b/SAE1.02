@@ -12,6 +12,6 @@ SAE 1.02
 Vote cumulatif : 
 
 **PARAMETRAGE**
-- Pouvoir décider combien de candidat je souhaite créer.
-- Pouvoir décider combien d'électeurs il y'a.
-- Pouvoir décider combien de points de vote chaque électeur dispose
+-  ~~Pouvoir décider combien de candidat je souhaite créer.~~ Fait!
+- ~~Pouvoir décider combien d'électeurs il y'a.~~ Fait!
+- ~~Pouvoir décider combien de points de vote chaque électeur dispose~~ Fait!
