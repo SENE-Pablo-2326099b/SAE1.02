@@ -1,0 +1,32 @@
+algorithme voteCumulatif
+debut
+
+    declarer tabCandidatNom : tableau_de nombreCandidat string;
+    declarer nombreCandidat : entier;
+    declarer tabCandidatPointDonner : tableau_de nombreCandidat entier;
+    declarer candidat : string;
+
+    declarer nombreElecteurs : entier
+    declarer pointElecteurs : entier <- 10 ;
+ 
+    afficher("Veuillez rentrez le nombre de candidat qui participent : ", ligne_suivante);
+    saisir(nombreCandidat);
+    initialiser tableau_de nombreCandidat entier;
+    
+    pour(i variant de 0 a taille(tabCandidat) - 1)
+    faire
+        ajouter CandidatX au tableau;
+    ffaire
+
+    pour(k variant de 0 a taille(tabCandidat) - 1) // Double boucle pour parcourir en meme temps le tableau des noms et des points a donner afin de donner a chaque indice == indice le nombre de points choisis
+    faire
+        pour (j variant_de 0 taille(tabCandidatEtPointDonner) - 1) 
+        faire
+            afficher("Veuillez saisir le nombre de points que vous souhaitez donner au candidat  numéro ", j , ligne_suivante );
+            saisir(tabCandidatPointDonner[j]);
+        ffaire
+    ffaire
+    
+
+
+fin

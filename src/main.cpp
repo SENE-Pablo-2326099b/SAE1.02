@@ -114,9 +114,9 @@ void createCandidate()
     cout << "Veuillez choisir le nombre de candidats que vous souhaitez implémentez :" << endl;
     cin >> numberCandidate;
     cout << "Création de " << numberCandidate << " candidats pour le vote ! " << endl;
-    Candidat tabCandidat[numberCandidate];
+    vector<Candidat> tabCandidat(numberCandidate);
 
-    for(int i = 0; i <= numberCandidate; i++)
+    for(int i = 0; i <= numberCandidate - 1; i++)
     {
         tabCandidat[i].setName();
         cout << endl << endl << endl << endl << endl << endl;
@@ -130,12 +130,13 @@ void createVoters()
     int numberVoters;
     cin >> numberVoters;
     cout << "Création de " << numberVoters << " électeurs pour le vote ! " << endl;
-    Electeurs tabVotersPoint[numberVoters];
+    vector<Electeurs> tabVotersPoint(numberVoters);
+
 
     cout << "Choisisez le nombre de points que chaque électeurs détient : " << endl;
     int pointToDistribute = 0;
     cin >> pointToDistribute;
-    for(int i = 0; i <= numberVoters; i++)
+    for(int i = 0; i <= numberVoters - 1; i++)
     {
         tabVotersPoint[i].SetPoint(pointToDistribute) ;
     }
