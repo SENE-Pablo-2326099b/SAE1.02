@@ -1,163 +1,100 @@
+#include <cstddef>
 #include <iostream>
 #include <vector>
-#include "../include/classElecteur.hpp"
-#include "../include/classCandidats.hpp"
+#include "../include/structVoters.hpp"
+#include "../include/structCandidates.hpp"
 using namespace std;   
-
-
-
-// electeurs::electeurs(int id, int pointADistribuer){
-//     this->id = id;
-//     this->pointADistribuer = pointADistribuer;
-// }
-
-// electeurs elecX(0, 100);
-// vector<electeurs> electeursListeTableau;
-
-// void creerElecteurs(){
-    
-//     int nbElecteurs = 0;
-//     int id = 0;
-//     while (nbElecteurs < 5) {
-//         electeursListeTableau.push_back(electeurs(0,100));
-//         nbElecteurs++;
-//         // https://openclassrooms.com/forum/sujet/creer-plusieurs-constructeurs-avec-une-boucle-for
-//     }
-
-// }
-
-
-// void voteCumulatif(){
-
-//     int point = 100;
-//     int nombreDePointADistribuer;
-
-//     int candidat1 = 0;
-//     int candidat2= 0;
-//     int candidat3= 0;
-    
-//     string choixElecteur ;
-//     bool gagnantVote = false;
-    
-//     bool aVoter = false;
-    
-//     cout << "Veuillez choisir comment vous repartiser vos points en selectionnant entre " << endl
-//          << "Candidat 1" << '\t' << "Candidat 2" << '\t' << "Candidat 3" << endl;
-
-//     while (point > 0) {
-        
-//         cin >> choixElecteur; cout << "choix electeur" << endl;
-        
-//         if (choixElecteur == "candidat 1" || choixElecteur == "candidat1" || choixElecteur == "Candidat 1" || choixElecteur == "Candidat1") {
-//             cout << "Veuillez choisir le nombre de points a donner au candidat numéro 1" << endl;
-//             cin >> nombreDePointADistribuer;
-//             candidat1 += nombreDePointADistribuer;
-//             point = point - nombreDePointADistribuer;
-//         }
-        
-//         else if (choixElecteur == "candidat 2" || choixElecteur == "candidat2" || choixElecteur == "Candidat 2" || choixElecteur == "Candidat2") {
-//             cout << "Veuillez choisir le nombre de points a donner au candidat numéro 2" << endl;
-//             cin >> nombreDePointADistribuer;
-//             candidat2 += nombreDePointADistribuer;
-//             point = point - nombreDePointADistribuer;
-//         }
-        
-//         else if (choixElecteur == "candidat 3" || choixElecteur == "candidat3" || choixElecteur == "Candidat 3" || choixElecteur == "Candidat3") {
-//             cout << "Veuillez choisir le nombre de points a donner au candidat numéro 3" << endl;
-//             cin >> nombreDePointADistribuer;
-//             candidat3 += nombreDePointADistribuer;
-//             point = point - nombreDePointADistribuer;
-//         }
-//     }   
-
-//     aVoter = true;
-
-//     if (candidat3 > candidat2 && candidat3 > candidat1) {
-//         gagnantVote = true;
-//         cout << "Le gagnant est candidat 3" << endl;
-//     }
-
-//     else if (candidat2 > candidat1 && candidat2 > candidat3) {
-//         gagnantVote = true;
-//         cout << "Le gagnant est candidat 2" << endl;
-
-//     }
-    
-//     else if (candidat1 > candidat3 && candidat1 > candidat2) {
-//         gagnantVote = true;
-//         cout << "Le gagnant est candidat 1" << endl;
-
-//     }
-//     // cout << "Le candidat ayant obtenue le plus de votes est le candidat " << gagnantVote << endl;
-// }
-    
-
-
-
-
-// int main(){
-//     // int i = 0;
-//     // while (i < 5) {
-//     // // creerElecteurs();
-//     // cout << "Id de l'électeur : "<< elecX.getId() << endl;
-//     // cout << "Nombre de points de l'électeur : "<< elecX.getPoints() << endl;
-//     // }
-//     voteCumulatif();
-// }
-
 
 int numberCandidate;
 
 
-void createCandidate()
+
+
+vector<Candidates> createCandidate(vector<Candidates> VectorCandidates)
 {
     cout << "Veuillez choisir le nombre de candidats que vous souhaitez implémentez :" << endl;
     cin >> numberCandidate;
     cout << "Création de " << numberCandidate << " candidats pour le vote ! " << endl;
-    vector<Candidat> tabCandidat(numberCandidate);
+    VectorCandidates.resize(numberCandidate);
 
     for(int i = 0; i <= numberCandidate - 1; i++)
-    {
-        tabCandidat[i].setName();
-        cout << endl << endl << endl << endl << endl << endl;
-        tabCandidat[i].getName();
+    {   
+        string name;
+        cout << "Quelle est le nom du " << i + 1 << " candidat ? " << endl;
+        cin >> name ;
+        VectorCandidates[i].setName(name);
+        cout << endl << endl;
     }
+    for (int i = 0; i < numberCandidate; i++)
+    {
+        cout << "Le candidat numéro " << i + 1 << " se nomme " << VectorCandidates[i].getName() << endl;
+    }
+    return VectorCandidates;
 }
 
-void createVoters()
+
+
+vector<Voters> createVoters(vector<Voters>VectorVoters)
 {
     cout << "Veuillez choisir le nombre de d'électeurs que vous souhaitez implémentez :" << endl;
     int numberVoters;
     cin >> numberVoters;
     cout << "Création de " << numberVoters << " électeurs pour le vote ! " << endl;
-    vector<Electeurs> tabVotersPoint(numberVoters);
-
+    VectorVoters.resize(numberVoters);
 
     cout << "Choisisez le nombre de points que chaque électeurs détient : " << endl;
-    int pointToDistribute = 0;
-    cin >> pointToDistribute;
+    int pointsDistributed = 0;
+    cin >> pointsDistributed;
     for(int i = 0; i <= numberVoters - 1; i++)
     {
-        tabVotersPoint[i].SetPoint(pointToDistribute) ;
+        VectorVoters[i].SetPoint(pointsDistributed);
     }
-    
-    cout << "Les electeurs ont " << pointToDistribute << " points a distribuer entre " << numberCandidate << " candidats" << endl;
-    
+    for (int i = 0; i<= numberVoters - 1; i++)
+    {
+        cout << "L'électeur " << i << " à " << VectorVoters[i].GetPoint() << " points" << endl;
+    }
+    return VectorVoters;
 }
 
 
-// https://electionbuddy.com/blog/2022/02/18/understanding-the-cumulative-voting-formula/
-// https://electionbuddy.com/features/voting-systems/cumulative-voting/
+
+
+
+
+
+
+//A finir car trop mal a la tete la mdr
+//Mais en gros faut juste que je trouve le moyen de faire voter chaque electeur pour chaque candidat 
+void collectVotes(vector<Voters> vectorVoters, vector<Candidates> vectorCandidates)
+{
+    int pointCollected;
+        // vectorVoters 
+    for (size_t v = 0; v < vectorVoters.size(); v++)
+    {
+        //vectorCandidates
+        for(size_t c = 0; c < vectorCandidates.size(); c++)
+        {
+        
+            cout << "Voici le candidat " << endl << vectorCandidates[c].getName() << endl;
+            cout << "Electeurs numéro " << v << " , veuilliez choisir combien de points vous lui mettez" << endl;
+            
+            cin >> pointCollected;
+            vectorCandidates[c].setPointCollected(pointCollected);
+        }
+    }
+}
+    
+
+
 
 int main()
 {
+    vector<Voters> VectorVoters;
+    vector<Candidates> VectorCandidates;
 
-    createCandidate();
-    createVoters();
-
+    vector <Voters> a = createVoters(VectorVoters);
+    vector <Candidates> b = createCandidate(VectorCandidates);
+    collectVotes(a, b);
+    return 0;
 }
-
-
-
-// A FAIRE : Utiliser des verteurs au lieu des tableau pour changer la taille sans tout casser 
 
