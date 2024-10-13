@@ -30,7 +30,7 @@ vector<CandidatesCum> createCandidate(vector<CandidatesCum> VectorCandidates)
         VectorCandidates[i].setName(name);
         cout << endl << endl;
     }
-    for (int i = 0; i < numberCandidate; i++)
+    for (int i = 0; i <= numberCandidate - 1; i++)
     {
         cout << "Le candidat numéro " << i + 1 << " se nomme " << VectorCandidates[i].getName() << endl;
     }
@@ -61,7 +61,7 @@ vector<VotersCum> createVoters(vector<VotersCum>VectorVoters)
     {
         VectorVoters[i].SetPoint(pointsDistributed);
     }
-    for (int i = 0; i<= numberVoters - 1; i++)
+    for (int i = 0; i <= numberVoters - 1; i++)
     {
         cout << "L'électeur " << i + 1 << " à " << VectorVoters[i].GetPoint() << " points" << endl;
     }
@@ -79,10 +79,10 @@ vector<CandidatesCum> collectVotes(vector<VotersCum> vectorVoters, vector<Candid
 {
     int pointCollected;
         // vectorVoters 
-    for (size_t v = 0; v < vectorVoters.size(); v++)
+    for (size_t v = 0; v < vectorVoters.size() ; v++)
     {
         //vectorCandidates
-        for(size_t c = 0; c < vectorCandidates.size(); c++)
+        for(size_t c = 0; c < vectorCandidates.size() ; c++)
         {
             if (vectorVoters[v].GetPoint() <= 0) {
                 cout << "Vous n'avez plus de points a distribuer. " << endl;
@@ -110,19 +110,26 @@ vector<CandidatesCum> collectVotes(vector<VotersCum> vectorVoters, vector<Candid
         }
     }
 
-    for(size_t res = 0; res <= vectorCandidates.size(); res++)
+    for(size_t res = 0; res < vectorCandidates.size() ; res++)
     {
         cout << vectorCandidates[res].getName() << " à récolter " << vectorCandidates[res].getPointCollected() << " points !" << endl;
     }
     return vectorCandidates;
 }
 
-string isWinner(vector<CandidatesCum> VectorCandidateWinner)   
+string isWinnerName(vector<CandidatesCum> vectorCandidatesWin)
 {
+    string winnerName;
+    int winnerPoints = 0;
 
-    string name = isWinner(VectorCandidateWinner);
-    cout << "Le candidat ayant reçu le plus de vote est " << name << " ! " << endl;
-    return name;
+    for (size_t res = 0; res < vectorCandidatesWin.size(); res++) {
+        if (vectorCandidatesWin[res].getPointCollected() > winnerPoints) {
+            winnerPoints = vectorCandidatesWin[res].getPointCollected();
+            winnerName = vectorCandidatesWin[res].getName();
+        }
+    }
+    cout << "Le candidat " << winnerName << " gagne avec " << winnerPoints << " points" << endl ;
+    return winnerName;
 }
 
 int main()
@@ -133,7 +140,7 @@ int main()
     vector <VotersCum> a = createVoters(VectorVoters);
     vector <CandidatesCum> b = createCandidate(VectorCandidates);
     vector<CandidatesCum> win = collectVotes(a, b);
-    isWinner(VectorCandidates);
+    isWinnerName(win);
 
     return 0;
 }

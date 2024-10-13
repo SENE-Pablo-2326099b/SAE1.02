@@ -31,18 +31,18 @@ struct CandidatesCum
         return PointCollected;
     }
 
-    string isWinner(vector<CandidatesCum> vectorCandidatesWin)
-    {
-        for (size_t res = 0; res <= vectorCandidatesWin.size(); res++) {
-            if (vectorCandidatesWin[res].PointCollected > vectorCandidatesWin[res + 1].PointCollected) {
-                string winner;
-                winner = vectorCandidatesWin[res].Name;
-            }
-            // else {
-            //     res += 1;
-            // }
-        }
+    // string isWinnerCand(vector<CandidatesCum> vectorCandidatesWin)
+    // {
+    //     for (size_t res = 0; res < vectorCandidatesWin.size() - 1 ; res++) {
+    //         if (vectorCandidatesWin[res].PointCollected > vectorCandidatesWin[res + 1].PointCollected) {
+    //             string winner;
+    //             winner = vectorCandidatesWin[res].Name;
+    //         }
+    //         else {
+    //             res += 1;
+    //         }
+    //     }
         
-        return Name;
-    }
+    //     return Name;
+    // }
 };
