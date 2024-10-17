@@ -72,4 +72,4 @@ struct CandidatesAlt
     {
         return Vote;
     }
-}
+};
