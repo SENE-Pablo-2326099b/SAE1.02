@@ -15,8 +15,4 @@ struct VotersCum
     {
         return pointsDistributed;
     }
-
-
-
-    // void setVotes();
 };

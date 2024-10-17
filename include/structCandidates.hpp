@@ -9,7 +9,7 @@ struct CandidatesCum
 {
     string Name;
     int PointCollected = 0;
-    bool Winner;
+    // bool Winner;
 
     void setName(const string& name)
     {
@@ -30,19 +30,4 @@ struct CandidatesCum
     {
         return PointCollected;
     }
-
-    // string isWinnerCand(vector<CandidatesCum> vectorCandidatesWin)
-    // {
-    //     for (size_t res = 0; res < vectorCandidatesWin.size() - 1 ; res++) {
-    //         if (vectorCandidatesWin[res].PointCollected > vectorCandidatesWin[res + 1].PointCollected) {
-    //             string winner;
-    //             winner = vectorCandidatesWin[res].Name;
-    //         }
-    //         else {
-    //             res += 1;
-    //         }
-    //     }
-        
-    //     return Name;
-    // }
 };
