@@ -1,14 +1,15 @@
+#include <cstddef>
 #include <iostream>
 #include <string>
 #include <vector>
 
 using namespace std;
 
-struct Candidates
+struct CandidatesCum
 {
     string Name;
     int PointCollected = 0;
-    bool Winner;
+    // bool Winner;
 
     void setName(const string& name)
     {
@@ -22,7 +23,7 @@ struct Candidates
 
     void setPointCollected(int& pointCollected)
     {
-        PointCollected = pointCollected;
+        PointCollected += pointCollected ;
     }
 
     int getPointCollected() const

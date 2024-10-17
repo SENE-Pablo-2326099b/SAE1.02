@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-struct Voters
+struct VotersCum
 {
     int pointsDistributed = 0;
     bool hasVoted = false;
@@ -15,8 +15,4 @@ struct Voters
     {
         return pointsDistributed;
     }
-
-
-
-    // void setVotes();
 };
