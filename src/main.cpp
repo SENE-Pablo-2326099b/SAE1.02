@@ -231,7 +231,20 @@ vector<CandidatesAlt> collectVotesAlt(vector<VotersAlt> vectorVoters, vector<Can
     return vectorCandidates;
 }
 
-
+CandidatesAlt alternativeVote(vector<VotersAlt> vectorVoters, vector<CandidatesAlt> vectorCandidates)
+{
+    vector<CandidatesAlt> vectorCandidatesAfterVote;
+    vectorCandidatesAfterVote = collectVotesAlt(vectorVoters, vectorCandidates);
+    size_t cmin = 0;
+    for (size_t c = 0; c < vectorCandidatesAfterVote.size() ; ++c)
+    {
+        if (vectorCandidatesAfterVote[c].Vote < vectorCandidatesAfterVote[cmin].Vote)
+        {
+            cmin = c;
+            
+        }
+    }
+}
 
 int main()
 {
