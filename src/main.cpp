@@ -50,11 +50,17 @@ vector<CandidatesCum> createCandidate(vector<CandidatesCum> VectorCandidates)
     VectorCandidates.resize(numberCandidate);
 
     //Initialiser le nom des candidats.
+    
     for(int i = 0; i <= numberCandidate - 1; i++)
     {   
         string name;
         cout << "Quelle est le nom du " << i + 1 << " candidat ? " << endl;
         cin >> name ;
+        if(name == " " || name == "\t" || name == "\n")
+        {
+            cout << "Veuillez entrée un nom valide ! " << endl;
+        }
+
         VectorCandidates[i].setName(name);
         cout << endl << endl;
     }
@@ -87,7 +93,7 @@ vector<CandidatesCum> collectVotes(vector<VotersCum> vectorVoters, vector<Candid
                  << vectorCandidates[c].getName() << endl << "Pour rappel vous avez " << vectorVoters[v].GetPoint() << " points. " << endl << endl;
             cin >> pointCollected;
 
-            // Conditionn pour vérifier que l'entrée cin est bien un chiffre valable            AFAIREEEEEE
+            // Conditionn pour vérifier que l'entrée cin est bien un chiffre valable et             AFAIREEEEEE
             // if (pointCollected < 0 || ) {
             // }
 
