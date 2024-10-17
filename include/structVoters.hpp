@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-struct Voters
+struct VotersCum
 {
     int pointsDistributed = 0;
     bool hasVoted = false;
@@ -19,4 +19,21 @@ struct Voters
 
 
     // void setVotes();
+};
+
+struct VotersAlt
+{
+    bool hasVoted = false;
+    string VotedCandidate = '';
+
+    void setVote (string& candidateName)
+    {
+        hasVoted = true;
+        VotedCandidate = candidateName;
+    }
+
+    string getVote() const
+    {
+        return VotedCandidate;
+    }
 };
