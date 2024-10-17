@@ -23,12 +23,10 @@ struct VotersCum
 
 struct VotersAlt
 {
-    bool hasVoted = false;
     string VotedCandidate = "";
 
     void setVote (string& candidateName)
     {
-        hasVoted = true;
         VotedCandidate = candidateName;
     }
 
