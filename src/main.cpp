@@ -116,7 +116,7 @@ vector<CandidatesCum> collectVotesCum(vector<VotersCum> vectorVoters, vector<Can
     return vectorCandidates;
 }
 
-string isWinnerNameCum(vector<CandidatesCum> vectorCandidatesWin)
+/*string isWinnerNameCum(vector<CandidatesCum> vectorCandidatesWin)
 {
     string winnerName;
     int winnerPoints = 0;
@@ -156,7 +156,7 @@ string isWinnerNameCum(vector<CandidatesCum> vectorCandidatesWin)
     }
     cout << "Le candidat " << winnerName << " gagne avec " << winnerPoints << " points" << endl ;
     return winnerName;
-}
+}*/
 
 /* ------------------------------------------- Vote Alternatif ------------------------------------------- */
 
@@ -191,8 +191,7 @@ vector<CandidatesAlt> createCandidateAlt(vector<CandidatesAlt> VectorCandidates)
 vector<VotersAlt> createVotersAlt(vector<VotersAlt>VectorVoters)
 {
     //Enregistrement du nombre d'électeurs que l'on souhaite créer.
-    cout << "Veuillez choisir le nombre de d'électeurs que vous souhaitez implémentez :" << endl;
-    cout << ": " ; 
+    cout << "Veuillez choisir le nombre de d'électeurs que vous souhaitez implémentez :";
     int numberVoters;
     cin >> numberVoters;
     cout << endl;
@@ -208,7 +207,7 @@ vector<CandidatesAlt> collectVotesAlt(vector<VotersAlt> vectorVoters, vector<Can
 {
     string nameCandidate;
     // vectorVoters 
-    for (size_t v = 0; c < vectorVoters.size() ; v++)
+    for (size_t v = 0; v < vectorVoters.size() ; v++)
     {
         cout << "Voici les candidats qui se presente : " << endl;
         for (size_t c = 0; c < vectorCandidates.size() ; ++c)
@@ -216,7 +215,7 @@ vector<CandidatesAlt> collectVotesAlt(vector<VotersAlt> vectorVoters, vector<Can
             cout << vectorCandidates[c].getName() << endl;
         }
 
-        cout << "entrer le nom du candidat que vous souhaitez voté(e) :" ;
+        cout << "entrer le nom du candidat que vous souhaitez voté(e) : " ;
         cin >> nameCandidate;
         vectorVoters[v].setVote(nameCandidate);
         
@@ -232,15 +231,16 @@ vector<CandidatesAlt> collectVotesAlt(vector<VotersAlt> vectorVoters, vector<Can
     return vectorCandidates;
 }
 
+
+
 int main()
 {
-    vector<VotersCum> VectorVoters;
-    vector<CandidatesCum> VectorCandidates;
+    vector<VotersAlt> VectorVoters;
+    vector<CandidatesAlt> VectorCandidates;
 
-    vector <VotersCum> a = createVotersCum(VectorVoters);
-    vector <CandidatesCum> b = createCandidateCum(VectorCandidates);
-    vector<CandidatesCum> win = collectVotesCum(a, b);
-    isWinnerNameCum(win);
+    vector <VotersAlt> a = createVotersAlt(VectorVoters);
+    vector <CandidatesAlt> b = createCandidateAlt(VectorCandidates);
+    vector <CandidatesAlt> b = collectVotesAlt(a, b);
 
     return 0;
 }
