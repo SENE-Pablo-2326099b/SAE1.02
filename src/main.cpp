@@ -241,7 +241,16 @@ CandidatesAlt alternativeVote(vector<VotersAlt> vectorVoters, vector<CandidatesA
         if (vectorCandidatesAfterVote[c].Vote < vectorCandidatesAfterVote[cmin].Vote)
         {
             cmin = c;
-            
+
+        }
+        else if (vectorCandidatesAfterVote[c].Vote > vectorVoters.size() / 2)
+        {
+            vectorCandidatesAfterVote[c].winner = true;
+            break;
+        }
+        else if (vectorCandidatesAfterVote[c].Vote == vectorCandidatesAfterVote[cmin].Vote)
+        {
+            //ajout en cas d'egalité regardez internet
         }
     }
 }
