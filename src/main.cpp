@@ -272,7 +272,7 @@ CandidatesAlt alternativeVote(vector<VotersAlt> vectorVoters, vector<CandidatesA
                 vectorCandidatesAfterVote[c].Winner = true;
 
                 cout << "Le gagnant est : " << vectorCandidatesAfterVote[c].getName() << " avec " 
-                << (vectorCandidatesAfterVote[c].getVoteCollected() / vectorVoters.size()) * 100 << " %" << endl;
+                << (vectorCandidatesAfterVote[0].getVoteCollected() * 100 ) / vectorVoters.size() * 100 << " %" << endl;
 
                 return vectorCandidatesAfterVote[c];
             }
@@ -311,7 +311,7 @@ CandidatesAlt alternativeVote(vector<VotersAlt> vectorVoters, vector<CandidatesA
             vectorCandidatesAfterVote[0].Winner = true;
 
             cout << "Le gagnant est : " << vectorCandidatesAfterVote[0].getName() << " avec " 
-            << (vectorCandidatesAfterVote[0].getVoteCollected() / vectorVoters.size()) * 100 << " %" << endl;
+            << (vectorCandidatesAfterVote[0].getVoteCollected() * 100 ) / vectorVoters.size() << " %" << endl;
 
             return vectorCandidatesAfterVote[0];
         }
