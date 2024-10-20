@@ -245,7 +245,7 @@ CandidatesAlt alternativeVote(vector<VotersAlt> vectorVoters, vector<CandidatesA
         }
         else if (vectorCandidatesAfterVote[c].Vote > vectorVoters.size() / 2)
         {
-            vectorCandidatesAfterVote[c].winner = true;
+            vectorCandidatesAfterVote[c].Winner = true;
             break;
         }
         else if (vectorCandidatesAfterVote[c].Vote == vectorCandidatesAfterVote[cmin].Vote)

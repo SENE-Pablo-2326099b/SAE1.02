@@ -51,7 +51,7 @@ struct CandidatesAlt
 {
     string Name;
     unsigned Vote = 0;
-    bool Winner;
+    bool Winner = false;
 
     void setName(const string& name)
     {
