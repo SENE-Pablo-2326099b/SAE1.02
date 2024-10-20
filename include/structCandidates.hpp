@@ -63,12 +63,12 @@ struct CandidatesAlt
         return Name;
     }
 
-    void setVoteCollected(int& voteCollected)
+    void setVoteCollected(unsigned& voteCollected)
     {
         Vote += voteCollected;
     }
 
-    int getVoteCollected() const
+    unsigned getVoteCollected() const
     {
         return Vote;
     }
