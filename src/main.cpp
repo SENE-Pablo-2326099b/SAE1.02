@@ -1,6 +1,7 @@
 #include <algorithm>
 #include <iostream>
 #include <vector>
+#include <random>
 #include "../include/structVoters.hpp"
 #include "../include/structCandidates.hpp"
 using namespace std;
@@ -172,7 +173,7 @@ vector<CandidatesAlt> createCandidateAlt(vector<CandidatesAlt> VectorCandidates)
     VectorCandidates.resize(numberCandidate);
 
     //Initialiser le nom des candidats.
-    for(int i = 0; i <= numberCandidate - 1; i++)
+    for(int i = 0; i <= numberCandidate - 1; ++i)
     {
         string name;
         cout << "Quelle est le nom du " << i + 1 << " candidat ? " << endl;
@@ -180,7 +181,7 @@ vector<CandidatesAlt> createCandidateAlt(vector<CandidatesAlt> VectorCandidates)
         VectorCandidates[i].setName(name);
         cout << endl << endl;
     }
-    for (int i = 0; i <= numberCandidate - 1; i++)
+    for (int i = 0; i <= numberCandidate - 1; ++i)
     {
         cout << "Le candidat numéro " << i + 1 << " se nomme " << VectorCandidates[i].getName() << endl;
     }
@@ -207,7 +208,7 @@ vector<CandidatesAlt> collectVotesAlt(vector<VotersAlt> vectorVoters, vector<Can
 {
     string nameCandidate;
     // vectorVoters 
-    for (size_t v = 0; v < vectorVoters.size() ; v++)
+    for (size_t v = 0; v < vectorVoters.size() ; ++v)
     {
         cout << "Voici les candidats qui se presente : " << endl;
         for (size_t c = 0; c < vectorCandidates.size() ; ++c)
@@ -219,7 +220,7 @@ vector<CandidatesAlt> collectVotesAlt(vector<VotersAlt> vectorVoters, vector<Can
         cin >> nameCandidate;
         vectorVoters[v].setVote(nameCandidate);
         
-        for(size_t c = 0; c < vectorCandidates.size() ; c++)
+        for(size_t c = 0; c < vectorCandidates.size() ; ++c)
         {
             if (nameCandidate == vectorCandidates[c].getName())
             {
@@ -235,24 +236,55 @@ CandidatesAlt alternativeVote(vector<VotersAlt> vectorVoters, vector<CandidatesA
 {
     vector<CandidatesAlt> vectorCandidatesAfterVote;
     vectorCandidatesAfterVote = collectVotesAlt(vectorVoters, vectorCandidates);
-    size_t cmin = 0;
+    vector<size_t> cmin = {0};
+    string loserName;
+
     for (size_t c = 0; c < vectorCandidatesAfterVote.size() ; ++c)
     {
-        if (vectorCandidatesAfterVote[c].Vote < vectorCandidatesAfterVote[cmin].Vote)
+        if (vectorCandidatesAfterVote[c].Vote < vectorCandidatesAfterVote[cmin[0]].Vote)
         {
-            cmin = c;
-
+            cmin.resize(1);
+            cmin[0] = c;
         }
         else if (vectorCandidatesAfterVote[c].Vote > vectorVoters.size() / 2)
         {
             vectorCandidatesAfterVote[c].Winner = true;
-            break;
+            return vectorCandidatesAfterVote[c];
         }
-        else if (vectorCandidatesAfterVote[c].Vote == vectorCandidatesAfterVote[cmin].Vote)
+        else if (vectorCandidatesAfterVote[c].Vote == vectorCandidatesAfterVote[cmin[0]].Vote)
         {
-            //ajout en cas d'egalité regardez internet
+            cmin.resize(cmin.size() + 1);
+            cmin[cmin.size() - 1] = c;
         }
     }
+
+    if (cmin.size() == 1)
+    {
+        cout << "Le candidat suivant a été éliminé : " << vectorCandidatesAfterVote[cmin[0]].getName() << endl;
+        looserName = vectorCandidatesAfterVote[cmin[0]].getName();
+        vectorCandidatesAfterVote[cmin[0]].remove();
+    }
+
+    else
+    {
+        unsigned rd = rand() % cmin.size();
+        looserName = vectorCandidatesAfterVote[cmin[rd]].getName();
+        cout << "Le candidat suivant a été éliminé : " << vectorCandidatesAfterVote[cmin[rd]].getName() << endl;
+        vectorCandidatesAfterVote[cmin[rd]].remove();
+    }
+
+    for (size_t v = 0; v < vectorVoters.size() ; ++v)
+    {
+        if (vectorVoters[v].getVote() == looserName)
+        {
+            string tempcandidate;
+            cout << "Votre candidat a été éliminé, veuillez voter pour un autre candidat : ";
+            cin >> tempcandidate;
+            vectorVoters[v].setVote(tempcandidate);
+        }   
+    }
+
+    return alternativeVote(vectorVoters, vectorCandidatesAfterVote);
 }
 
 int main()
@@ -262,7 +294,7 @@ int main()
 
     vector <VotersAlt> a = createVotersAlt(VectorVoters);
     vector <CandidatesAlt> b = createCandidateAlt(VectorCandidates);
-    vector <CandidatesAlt> b = collectVotesAlt(a, b);
+    cout << "Le gagnant est : " << alternativeVote(a, b).getName() << endl;
 
     return 0;
 }
