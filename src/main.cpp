@@ -1,6 +1,6 @@
 // #include <algorithm>
 #include <algorithm>
-#include <cstddef>
+// #include <cstddef>
 #include <cstdio>
 #include <iostream>
 #include <string>
@@ -23,7 +23,7 @@ vector<VotersCum> createVoters(vector<VotersCum>VectorVoters)
         
         if (cin.fail()) 
         {   
-            cout << endl << "Error. Veuillez entrez un nombre valide" << endl;
+            cerr << endl << "Error. Veuillez entrez un nombre valide" << endl;
             cin.clear();
             cin.ignore();
         }
@@ -47,7 +47,7 @@ vector<VotersCum> createVoters(vector<VotersCum>VectorVoters)
 
         if (cin.fail()) 
         {
-            cout << endl << "Error. Veuillez entrez un nombre valide" << endl;
+            cerr << endl << "Error. Veuillez entrez un nombre valide" << endl;
             cin.clear();
             cin.ignore();
         }
@@ -85,7 +85,7 @@ vector<CandidatesCum> createCandidate(vector<CandidatesCum> VectorCandidates)
     
         if (cin.fail()) 
         {
-            cout << endl << "Error. Veuillez entrez un nombre valide" << endl;
+            cerr << endl << "Error. Veuillez entrez un nombre valide" << endl;
             cin.clear();
             cin.ignore();
         }
@@ -111,7 +111,7 @@ vector<CandidatesCum> createCandidate(vector<CandidatesCum> VectorCandidates)
         
         if(name.empty() || name == " " || name == "\t" || name == "\n")
         {
-            cout << "Veuillez entrée un nom valide ! " << endl;
+            cerr << "Veuillez entrée un nom valide ! " << endl;
             cin.ignore();
             getline(cin , name);
         }
@@ -141,6 +141,7 @@ vector<CandidatesCum> collectVotes(vector<VotersCum> vectorVoters, vector<Candid
         for(size_t c = 0; c < vectorCandidates.size() ; c++)
         {
             // On vérifie qu'il reste des points a distribuée
+            demanderPointsAdonner:
             if (vectorVoters[v].GetPoint() <= 0) {
                 cout << "Vous n'avez plus de points a distribuer. " << endl;
                 break;
@@ -151,14 +152,19 @@ vector<CandidatesCum> collectVotes(vector<VotersCum> vectorVoters, vector<Candid
             cin >> pointCollected;
 
             // Conditionn pour vérifier que l'entrée cin est bien un chiffre valable et             AFAIREEEEEE Pas finis pablo occupe toi en
-            if (vectorVoters[v].pointsDistributed != 0 ) 
+            if (pointCollected <= 0 ) 
             {
-                cout << "Vous ne pouvez pas donner des points négatif ! " << endl;
+                cerr << "Vous ne pouvez pas donner des points négatif ! " << endl;
+                goto demanderPointsAdonner;
                 
             }
-            else if (vectorVoters[v].pointsDistributed < pointCollected) {
-                cout << "Vous ne pouvez pas donnez plus de points que vous n'en possédez ! " << endl;
+
+            else if (vectorVoters[v].pointsDistributed < pointCollected) 
+            {
+                cerr << "Vous ne pouvez pas donnez plus de points que vous n'en possédez ! " << endl;
+                goto demanderPointsAdonner;
             }
+
             vectorCandidates[c].setPointCollected(pointCollected);
             vectorVoters[v].pointsDistributed -=  pointCollected;
 
