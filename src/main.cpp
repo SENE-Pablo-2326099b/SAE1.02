@@ -159,7 +159,9 @@ vector<CandidatesCum> collectVotesCum(vector<VotersCum> vectorVoters, vector<Can
     return winnerName;
 }*/
 
+
 /* ------------------------------------------- Vote Alternatif ------------------------------------------- */
+
 
 vector<CandidatesAlt> createCandidateAlt(vector<CandidatesAlt> VectorCandidates)
 {
