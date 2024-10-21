@@ -19,3 +19,7 @@ Vote cumulatif :
 
 **Correction beug**
 - ~~Entré utilisateur incorect (Type int a la place de string, on int négatif ...)~~ Fait !
+
+**A FAIRE**
+
+- Faire la gestion de l'égalité
