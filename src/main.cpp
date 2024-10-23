@@ -18,7 +18,7 @@ vector<VotersCum> createVoters(vector<VotersCum>VectorVoters)
     //Condition pour verifier si l'entrée utilisateur est correct
     while (isGood == false) 
     {
-        cout << "Veuillez choisir le nombre de d'électeurs que vous souhaitez implémentez :" << endl << ":";
+        cout << "Veuillez choisir le nombre de d'électeurs que vous souhaitez implémentez :" << endl << "--> ";
         cin >> numberVoters;
         
         if (cin.fail()) 
@@ -42,7 +42,7 @@ vector<VotersCum> createVoters(vector<VotersCum>VectorVoters)
     while (isGood == false) 
     {
         // Condition qui verifie que l'entrée utilisateur est correct.
-        cout << "Choisisez le nombre de points que chaque électeurs détient : " << endl;
+        cout << "Choisisez le nombre de points que chaque électeurs détient :" << endl << "--> ";
         cin >> pointsDistributed;
 
         if (cin.fail()) 
@@ -61,11 +61,12 @@ vector<VotersCum> createVoters(vector<VotersCum>VectorVoters)
     {
         VectorVoters[i].SetPoint(pointsDistributed);
     }
-
+    cout << endl;
     for (int i = 0; i <= numberVoters - 1; i++)
     {
         cout << "L'électeur " << i + 1 << " à " << VectorVoters[i].GetPoint() << " points" << endl;
     }
+    cout << endl;
         
     return VectorVoters;
 }
@@ -79,7 +80,7 @@ vector<CandidatesCum> createCandidate(vector<CandidatesCum> VectorCandidates)
     bool isGood = false;
     int numberCandidate;
     while (isGood == false) {
-        cout << "Veuillez choisir le nombre de candidats que vous souhaitez implémentez :" << endl << ": ";
+        cout << "Veuillez choisir le nombre de candidats que vous souhaitez implémentez :" << endl << "--> ";
         cin >> numberCandidate;
         cin.ignore();
     
@@ -106,7 +107,7 @@ vector<CandidatesCum> createCandidate(vector<CandidatesCum> VectorCandidates)
         bool isGood = false;
         string name;
 
-        cout << "Quelle est le nom du " << i + 1 << " candidat ? " << endl;
+        cout << endl << "Quelle est le nom du " << i + 1 << " candidat ? " << endl;
         getline(cin, name);
         
         if(name.empty() || name == " " || name == "\t" || name == "\n")
@@ -141,7 +142,7 @@ vector<CandidatesCum> collectVotes(vector<VotersCum> vectorVoters, vector<Candid
         for(size_t c = 0; c < vectorCandidates.size() ; c++)
         {
             // On vérifie qu'il reste des points a distribuée
-            demanderPointsAdonner:
+            labelPointsAdonner:
             if (vectorVoters[v].GetPoint() <= 0) {
                 cout << "Vous n'avez plus de points a distribuer. " << endl;
                 break;
@@ -155,14 +156,14 @@ vector<CandidatesCum> collectVotes(vector<VotersCum> vectorVoters, vector<Candid
             if (pointCollected <= 0 ) 
             {
                 cerr << "Vous ne pouvez pas donner des points négatif ! " << endl;
-                goto demanderPointsAdonner;
+                goto labelPointsAdonner;
                 
             }
 
             else if (vectorVoters[v].pointsDistributed < pointCollected) 
             {
                 cerr << "Vous ne pouvez pas donnez plus de points que vous n'en possédez ! " << endl;
-                goto demanderPointsAdonner;
+                goto labelPointsAdonner;
             }
 
             vectorCandidates[c].setPointCollected(pointCollected);
