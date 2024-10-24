@@ -16,3 +16,18 @@ struct VotersCum
         return pointsDistributed;
     }
 };
+
+struct VotersAlt
+{
+    string VotedCandidate = "";
+
+    void setVote (string& candidateName)
+    {
+        VotedCandidate = candidateName;
+    }
+
+    string getVote() const
+    {
+        return VotedCandidate;
+    }
+};
