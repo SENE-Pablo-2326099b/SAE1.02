@@ -23,3 +23,6 @@ Vote cumulatif :
 **A FAIRE**
 
 - Faire la gestion de l'égalité
+
+# POUR TOUS
+- Ranger les fonction dans des fichier que l'on appel
