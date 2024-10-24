@@ -5,6 +5,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include <random>
 #include "../include/structVoters.hpp"
 #include "../include/structCandidates.hpp"
 using namespace std;   
