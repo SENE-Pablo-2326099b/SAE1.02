@@ -1,135 +1,137 @@
-// #include <algorithm>
 #include <algorithm>
-// #include <cstddef>
 #include <cstdio>
 #include <iostream>
 #include <string>
 #include <vector>
 #include "../include/structVoters.hpp"
 #include "../include/structCandidates.hpp"
+#include "../include/CreateVotersCum.hpp"
+#include "../include/CreateCandidatesCum.hpp"
+
+
 using namespace std;   
 
-//Fonction qui permet de créer et d'initialiser les électeurs.
-vector<VotersCum> createVoters(vector<VotersCum>VectorVoters)
-{
-    //Enregistrement du nombre d'électeurs que l'on souhaite créer.
-    bool isGood = false;
-    int numberVoters;
-    //Condition pour verifier si l'entrée utilisateur est correct
-    while (isGood == false) 
-    {
-        cout << "Veuillez choisir le nombre de d'électeurs que vous souhaitez implémentez :" << endl << "--> ";
-        cin >> numberVoters;
+// //Fonction qui permet de créer et d'initialiser les électeurs.
+// vector<VotersCum> createVoters(vector<VotersCum>VectorVoters)
+// {
+//     //Enregistrement du nombre d'électeurs que l'on souhaite créer.
+//     bool isGood = false;
+//     int numberVoters;
+//     //Condition pour verifier si l'entrée utilisateur est correct
+//     while (isGood == false) 
+//     {
+//         cout << "Veuillez choisir le nombre de d'électeurs que vous souhaitez implémentez :" << endl << "--> ";
+//         cin >> numberVoters;
         
-        if (cin.fail()) 
-        {   
-            cerr << endl << "Error. Veuillez entrez un nombre valide" << endl;
-            cin.clear();
-            cin.ignore();
-        }
-        else {
-            isGood = true;
-        }     
-    }
-    isGood = false;
-    cout << endl; 
-    //Initialsation d'un vector qui contient les électeurs
-    cout << "Création de " << numberVoters << " électeurs pour le vote ! " << endl;
-    VectorVoters.resize(numberVoters);
+//         if (cin.fail()) 
+//         {   
+//             cerr << endl << "Error. Veuillez entrez un nombre valide" << endl;
+//             cin.clear();
+//             cin.ignore();
+//         }
+//         else {
+//             isGood = true;
+//         }     
+//     }
+//     isGood = false;
+//     cout << endl; 
+//     //Initialsation d'un vector qui contient les électeurs
+//     cout << "Création de " << numberVoters << " électeurs pour le vote ! " << endl;
+//     VectorVoters.resize(numberVoters);
 
-    //Attribution des points au électeurs
-    int pointsDistributed = 0;
-    while (isGood == false) 
-    {
-        // Condition qui verifie que l'entrée utilisateur est correct.
-        cout << "Choisisez le nombre de points que chaque électeurs détient :" << endl << "--> ";
-        cin >> pointsDistributed;
+//     //Attribution des points au électeurs
+//     int pointsDistributed = 0;
+//     while (isGood == false) 
+//     {
+//         // Condition qui verifie que l'entrée utilisateur est correct.
+//         cout << "Choisisez le nombre de points que chaque électeurs détient :" << endl << "--> ";
+//         cin >> pointsDistributed;
 
-        if (cin.fail()) 
-        {
-            cerr << endl << "Error. Veuillez entrez un nombre valide" << endl;
-            cin.clear();
-            cin.ignore();
-        }
-        else 
-        {
-            isGood = true;
-        }
-    }
+//         if (cin.fail()) 
+//         {
+//             cerr << endl << "Error. Veuillez entrez un nombre valide" << endl;
+//             cin.clear();
+//             cin.ignore();
+//         }
+//         else 
+//         {
+//             isGood = true;
+//         }
+//     }
 
-    for(int i = 0; i <= numberVoters - 1; i++)
-    {
-        VectorVoters[i].SetPoint(pointsDistributed);
-    }
-    cout << endl;
-    for (int i = 0; i <= numberVoters - 1; i++)
-    {
-        cout << "L'électeur " << i + 1 << " à " << VectorVoters[i].GetPoint() << " points" << endl;
-    }
-    cout << endl;
+//     for(int i = 0; i <= numberVoters - 1; i++)
+//     {
+//         VectorVoters[i].SetPoint(pointsDistributed);
+//     }
+//     cout << endl;
+//     for (int i = 0; i <= numberVoters - 1; i++)
+//     {
+//         cout << "L'électeur " << i + 1 << " à " << VectorVoters[i].GetPoint() << " points" << endl;
+//     }
+//     cout << endl;
         
-    return VectorVoters;
-}
+//     return VectorVoters;
+// }
 
 
 
-//Fonction qui permet de créer et d'initialiser les candidats.
-vector<CandidatesCum> createCandidate(vector<CandidatesCum> VectorCandidates)
-{
-    //Enregistrement du nombre d'électeurs que l'on souhaite créer
-    bool isGood = false;
-    int numberCandidate;
-    while (isGood == false) {
-        cout << "Veuillez choisir le nombre de candidats que vous souhaitez implémentez :" << endl << "--> ";
-        cin >> numberCandidate;
-        cin.ignore();
+// //Fonction qui permet de créer et d'initialiser les candidats.
+// vector<CandidatesCum> createCandidate(vector<CandidatesCum> VectorCandidates)
+// {
+//     //Enregistrement du nombre d'électeurs que l'on souhaite créer
+//     bool isGood = false;
+//     int numberCandidate;
+//     while (isGood == false) {
+//         cout << "Veuillez choisir le nombre de candidats que vous souhaitez implémentez :" << endl << "--> ";
+//         cin >> numberCandidate;
+//         cin.ignore();
     
-        if (cin.fail()) 
-        {
-            cerr << endl << "Error. Veuillez entrez un nombre valide" << endl;
-            cin.clear();
-            cin.ignore();
-        }
-        else 
-        {
-            isGood = true;
-        }
-    }
+//         if (cin.fail()) 
+//         {
+//             cerr << endl << "Error. Veuillez entrez un nombre valide" << endl;
+//             cin.clear();
+//             cin.ignore();
+//         }
+//         else 
+//         {
+//             isGood = true;
+//         }
+//     }
 
-    //Initialsation d'un vector qui contient les candidats
-    cout << "Création de " << numberCandidate << " candidats pour le vote ! " << endl;
-    VectorCandidates.resize(numberCandidate);
+//     //Initialsation d'un vector qui contient les candidats
+//     cout << "Création de " << numberCandidate << " candidats pour le vote ! " << endl;
+//     VectorCandidates.resize(numberCandidate);
 
-    //Initialiser le nom des candidats.
+//     //Initialiser le nom des candidats.
     
-    for(int i = 0; i < numberCandidate ; i++)
-    {   
-        bool isGood = false;
-        string name;
+//     for(int i = 0; i < numberCandidate ; i++)
+//     {   
+//         bool isGood = false;
+//         string name;
 
-        cout << endl << "Quelle est le nom du " << i + 1 << " candidat ? " << endl;
-        getline(cin, name);
+//         cout << endl << "Quelle est le nom du " << i + 1 << " candidat ? " << endl;
+//         getline(cin, name);
         
-        if(name.empty() || name == " " || name == "\t" || name == "\n")
-        {
-            cerr << "Veuillez entrée un nom valide ! " << endl;
-            cin.ignore();
-            getline(cin , name);
-        }
-        else 
-        {
-            VectorCandidates[i].setName(name);
-            cout << endl << endl;
-        }
+//         if(name.empty() || name == " " || name == "\t" || name == "\n")
+//         {
+//             cerr << "Veuillez entrée un nom valide ! " << endl;
+//             cin.ignore();
+//             getline(cin , name);
+//         }
+//         else 
+//         {
+//             VectorCandidates[i].setName(name);
+//             cout << endl << endl;
+//         }
 
-    }
+//     }
 
-    for (int i = 0; i <= numberCandidate - 1; i++)
-    {
-        cout << "Le candidat numéro " << i + 1 << " se nomme " << VectorCandidates[i].getName() << endl << endl;
-    }
-    return VectorCandidates;
-}
+//     for (int i = 0; i <= numberCandidate - 1; i++)
+//     {
+//         cout << "Le candidat numéro " << i + 1 << " se nomme " << VectorCandidates[i].getName() << endl << endl;
+//     }
+//     return VectorCandidates;
+// }
 
 //Fonction qui collecte les votes des électeurs et les attributs aux candidat(s) désirée !
 vector<CandidatesCum> collectVotes(vector<VotersCum> vectorVoters, vector<CandidatesCum> vectorCandidates)
