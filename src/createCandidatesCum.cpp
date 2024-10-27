@@ -60,4 +60,5 @@ vector<CandidatesCum>createCandidate(vector<CandidatesCum> VectorCandidates)
         cout << "Le candidat numéro " << i + 1 << " se nomme " << VectorCandidates[i].getName() << endl << endl;
     }
     return VectorCandidates;
+    
 }

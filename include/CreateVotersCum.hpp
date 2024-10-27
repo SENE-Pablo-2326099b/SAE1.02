@@ -4,4 +4,4 @@ using namespace std;
 #include "../include/structVoters.hpp"
 
 
-vector<VotersCum> createVoters(vector<VotersCum>VectorVoters);
+vector<VotersCum>createVoters(vector<VotersCum>VectorVoters);

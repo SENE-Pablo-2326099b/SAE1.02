@@ -1,7 +1,6 @@
 #ifndef CREATEVOTERSCUM_HPP
 #define CREATEVOTERSCUM_HPP
 
-
 #include <iostream>
 using namespace std;
 
