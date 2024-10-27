@@ -23,9 +23,9 @@ Vote cumulatif :
 **A FAIRE**
 
 - Faire la gestion de l'égalité
-- Faire la gestion des nombre négatuf des pour les electeur et des voters 
+- Faire la gestion des nombre négatif pour les electeur et les voters 
 
 
 
 # POUR TOUS
-- Ranger les fonction dans des fichier que l'on appel
+- Ranger les fonction dans des headers que l'on appel (Fait pour cumulatif)
