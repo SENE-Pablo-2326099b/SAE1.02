@@ -1,7 +1,8 @@
-#include <cstddef>
+#ifndef CREATECANDIDATESCUM_HPP 
+#define CREATECANDIDATESCUM_HPP
+
 #include <iostream>
 #include <string>
-#include <vector>
 
 using namespace std;
 
@@ -31,3 +32,5 @@ struct CandidatesCum
         return PointCollected;
     }
 };
+
+#endif

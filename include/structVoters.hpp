@@ -1,3 +1,6 @@
+#ifndef CREATEVOTERSCUM_HPP
+#define CREATEVOTERSCUM_HPP
+
 #include <iostream>
 using namespace std;
 
@@ -14,5 +17,9 @@ struct VotersCum
     const int GetPoint() const 
     {
         return pointsDistributed;
+
     }
+
 };
+
+#endif
