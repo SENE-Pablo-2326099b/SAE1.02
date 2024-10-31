@@ -22,8 +22,8 @@ Vote cumulatif :
 
 **A FAIRE**
 
-- Faire la gestion de l'égalité
-- Faire la gestion des nombre négatif pour les electeur et les voters 
+- ~~Faire la gestion de l'égalité~~ Fait !
+- ~~Faire la gestion des nombre négatif pour les electeur et les voters~~ Fait ! 
 
 
 
