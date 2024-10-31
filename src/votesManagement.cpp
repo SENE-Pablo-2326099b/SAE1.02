@@ -1,3 +1,4 @@
+#include <cstddef>
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -6,7 +7,7 @@
 using namespace std;
 
 //Fonction qui collecte les votes des électeurs et les attributs aux candidat(s) désirée !
-vector<CandidatesCum> collectVotes(vector<VotersCum> vectorVoters, vector<CandidatesCum> vectorCandidates)
+vector<CandidatesCum>collectVotes(vector<VotersCum> vectorVoters, vector<CandidatesCum> vectorCandidates)
 {
     int pointCollected;
         // On pcollectVotesarcour vectorVoters 
@@ -35,7 +36,7 @@ vector<CandidatesCum> collectVotes(vector<VotersCum> vectorVoters, vector<Candid
             
             }
 
-            else if (pointCollected <= 0) 
+            else if (pointCollected < 0) 
             {
                 cerr << "Vous ne pouvez pas donner des points négatif ! " << endl;
                 cin.clear();
@@ -68,55 +69,44 @@ vector<CandidatesCum> collectVotes(vector<VotersCum> vectorVoters, vector<Candid
     return vectorCandidates;
 }
 
-
-// // PAS SUR DE L'IMPLEMENTATION : 
-// // void egal(vector<CandidatesCum> aComparerPourEgalite){
-
-// //     vector<CandidatesCum> equalityCandidates;
-// //     for (size_t i = 0 ; i < aComparerPourEgalite.size() ; i++) {
-        
-// //         equalityCandidates.push_back(aComparerPourEgalite[0]);
-
-// //         if (aComparerPourEgalite[i].getPointCollected() == aComparerPourEgalite[i + 1].getPointCollected()) {
-// //             equalityCandidates.push_back(aComparerPourEgalite[i+1]);
-// //         }
-// //     }
-// // }
-
-
 string isWinnerName(vector<CandidatesCum> vectorCandidatesWin)
 {
     string winnerName;
     int winnerPoints = 0;
-    //Parcourir le tableau pour comparer les points des différents candidats
-
-    //Trie le tableau en fonction du nombre de points collecter
-    sort(vectorCandidatesWin.begin(), vectorCandidatesWin.end(), [](const CandidatesCum& a, const CandidatesCum& b){
-        return a.PointCollected > b.PointCollected;
-    });
-
+    vector<CandidatesCum>vectorCandidatesWinFinal;
     
-    for (size_t res = 0; res < vectorCandidatesWin.size() ; res++) {
-
-    //     cout << vectorCandidatesWin[res].getPointCollected() << endl;
-
-    //     if (vectorCandidatesWin[res].PointCollected == vectorCandidatesWin[res + 1].PointCollected) {
-    //         cout << "Le candidats" << vectorCandidatesWin[res].getName() << " et le candidat " << vectorCandidatesWin[res + 1].getName() << " sont arrivée a égalité" << endl;
-    //     }
-    //     else {
-    //         cout << "Le candidat ayant obtenue le plus de points est " << vectorCandidatesWin[0].getName() << " avec " << vectorCandidatesWin[0].getPointCollected() << " points !" << endl;
-    //     }
-
-
-
-
-        if (vectorCandidatesWin[res].getPointCollected() > winnerPoints ) {
+    for (size_t res = 0; res < vectorCandidatesWin.size() ; res++) 
+    {
+        //Parcourir le tableau pour trouver le nombre de points maximum reçu
+        if (vectorCandidatesWin[res].getPointCollected() > winnerPoints ) 
+        {
             cout << res << endl;
             winnerPoints = vectorCandidatesWin[res].getPointCollected();
-            winnerName = vectorCandidatesWin[res].getName();
         }
     }
 
-    cout << "Le candidat " << winnerName << " gagne avec " << winnerPoints << " points" << endl ;
+    //Gestion de l'égalité, on ajoute les candidats qui ont le meme nombre de points que le nombre de points maximum qu'un candidats a recu
+    for (size_t x = 0 ; x < vectorCandidatesWin.size() ; x++) 
+    {
+        if (vectorCandidatesWin[x].getPointCollected() == winnerPoints) 
+        {
+            vectorCandidatesWinFinal.push_back(vectorCandidatesWin[x]);
+        }
+    }
+    // Si la taille de ce vector est égale a 1 (en gros si il n'y a pas d'égalité) on donnne le nom du gagnants.
+    if (vectorCandidatesWinFinal.size() == 1 ) 
+    {
+        winnerName = vectorCandidatesWinFinal[0].getName();
+        cout << "Le gagnants est " << winnerName << " avec " << vectorCandidatesWinFinal[0].getPointCollected() << " points" << endl;
+    }
+    else 
+    {
+        cout << vectorCandidatesWinFinal.size() << " candidats sont arrivés à égalité." << endl
+             << "Il s'agit de : " << endl;
+        for (size_t n = 0; n < vectorCandidatesWinFinal.size() ; n++) 
+        {
+            cout << vectorCandidatesWinFinal[n].getName() << endl;        
+        }
+    }
     return winnerName;
 }
