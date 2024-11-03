@@ -19,12 +19,12 @@ vector<CandidatesCum>collectVotes(vector<VotersCum> vectorVoters, vector<Candida
             // On vérifie qu'il reste des points a distribuée
             labelPointsAdonner:
             if (vectorVoters[v].GetPoint() <= 0) {
-                cout << "Vous n'avez plus de points a distribuer. " << endl;
+                cout << "Vous n'avez plus de points a distribuer. " << endl << endl;
                 break;
             }
             
             cout << "Electeur numéro " << v + 1 << " , veuillez choisir le nombre de points que vous souhaitez distribuer à "
-                 << vectorCandidates[c].getName() << endl << "Pour rappel vous avez " << vectorVoters[v].GetPoint() << " points. " << endl << endl;
+                 << vectorCandidates[c].getName() << endl << "Pour rappel vous avez " << vectorVoters[v].GetPoint() << " points. " << endl << "--> ";
             cin >> pointCollected;
 
             // Conditionn pour vérifier que l'entrée cin est bien un chiffre valable
@@ -57,7 +57,7 @@ vector<CandidatesCum>collectVotes(vector<VotersCum> vectorVoters, vector<Candida
             vectorCandidates[c].setPointCollected(pointCollected);
             vectorVoters[v].pointsDistributed -=  pointCollected;
 
-            cout << "Vous avez distribué " << pointCollected << " points à " << vectorCandidates[c].getName() << "." << endl << endl;
+            cout << endl << "Vous avez distribué " << pointCollected << " points à " << vectorCandidates[c].getName() << "." << endl;
             cout << "Il vous reste " << vectorVoters[v].GetPoint() << " points." << endl;
         }
     }
@@ -80,7 +80,6 @@ string isWinnerName(vector<CandidatesCum> vectorCandidatesWin)
         //Parcourir le tableau pour trouver le nombre de points maximum reçu
         if (vectorCandidatesWin[res].getPointCollected() > winnerPoints ) 
         {
-            cout << res << endl;
             winnerPoints = vectorCandidatesWin[res].getPointCollected();
         }
     }
@@ -97,7 +96,7 @@ string isWinnerName(vector<CandidatesCum> vectorCandidatesWin)
     if (vectorCandidatesWinFinal.size() == 1 ) 
     {
         winnerName = vectorCandidatesWinFinal[0].getName();
-        cout << "Le gagnants est " << winnerName << " avec " << vectorCandidatesWinFinal[0].getPointCollected() << " points" << endl;
+        cout << endl << "Le gagnants est " << "\033[31m" <<winnerName << "\033[0m" << " avec " << vectorCandidatesWinFinal[0].getPointCollected() << " points" << endl;
     }
     else 
     {
@@ -110,3 +109,16 @@ string isWinnerName(vector<CandidatesCum> vectorCandidatesWin)
     }
     return winnerName;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+Veuillez choisir le nombre de d'électeurs que vous souhaitez implémentez :
+--> 
+Création de 2 électeurs pour le vote ! 
+Choisisez le nombre de points que chaque électeurs détient :
+--> 
+L'électeur 1 à 2 points
+L'électeur 2 à 2 points
+
+Veuillez choisir le nombre de candidats que vous souhaitez implémentez :
+--> Création de 2 candidats pour le vote ! 
+
+Quelle est le nom du 1 candidat ? 
+
+
+
+Quelle est le nom du 2 candidat ? 
+
+
+Le candidat numéro 1 se nomme Pablo
+
+Le candidat numéro 2 se nomme Arsene
+
+Electeur numéro 1 , veuillez choisir le nombre de points que vous souhaitez distribuer à Pablo
+Pour rappel vous avez 2 points. 
+
+Vous avez distribué 1 points à Pablo.
+
+Il vous reste 1 points.
+Electeur numéro 1 , veuillez choisir le nombre de points que vous souhaitez distribuer à Arsene
+Pour rappel vous avez 1 points. 
+
+Vous avez distribué 1 points à Arsene.
+
+Il vous reste 0 points.
+Electeur numéro 2 , veuillez choisir le nombre de points que vous souhaitez distribuer à Pablo
+Pour rappel vous avez 2 points. 
+
+Vous avez distribué 2 points à Pablo.
+
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+Pablo à récolter 3 points !
+Arsene à récolter 1 points !
+0
+Le gagnants est Pablo avec 3 points

@@ -28,7 +28,7 @@ vector<VotersCum> createVoters(vector<VotersCum>VectorVoters)
     isGood = false;
     cout << endl; 
     //Initialsation d'un vector qui contient les électeurs
-    cout << "Création de " << numberVoters << " électeurs pour le vote ! " << endl;
+    cout << "Création de " << numberVoters << " électeurs pour le vote ! " << endl <<endl;
     VectorVoters.resize(numberVoters);
 
     //Attribution des points au électeurs

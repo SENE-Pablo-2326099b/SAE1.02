@@ -28,17 +28,16 @@ vector<CandidatesCum>createCandidate(vector<CandidatesCum> VectorCandidates)
     }
 
     //Initialsation d'un vector qui contient les candidats
-    cout << "Création de " << numberCandidate << " candidats pour le vote ! " << endl;
+    cout << endl << "Création de " << numberCandidate << " candidats pour le vote ! " << endl;
     VectorCandidates.resize(numberCandidate);
 
     //Initialiser le nom des candidats.
     
     for(int i = 0; i < numberCandidate ; i++)
-    {   
-        bool isGood = false;
+    {
         string name;
 
-        cout << endl << "Quelle est le nom du " << i + 1 << " candidat ? " << endl;
+        cout << endl << "Quelle est le nom du " << i + 1 << " candidat ? " << endl << "--> ";
         getline(cin, name);
         
         if(name.empty() || name == " " || name == "\t" || name == "\n")
@@ -46,19 +45,21 @@ vector<CandidatesCum>createCandidate(vector<CandidatesCum> VectorCandidates)
             cerr << "Veuillez entrée un nom valide ! " << endl;
             cin.ignore();
             getline(cin , name);
+            cin.ignore();
         }
         else 
         {
             VectorCandidates[i].setName(name);
-            cout << endl << endl;
+            cout << endl;
         }
 
     }
 
     for (int i = 0; i <= numberCandidate - 1; i++)
     {
-        cout << "Le candidat numéro " << i + 1 << " se nomme " << VectorCandidates[i].getName() << endl << endl;
+        cout << "Le candidat numéro " << i + 1 << " se nomme " << VectorCandidates[i].getName() << endl;
     }
+    cout << endl;
     return VectorCandidates;
     
 }
