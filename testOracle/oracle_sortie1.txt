@@ -1,0 +1,2719 @@
+Veuillez choisir le nombre de candidats que vous souhaitez implémentez :
+--> 
+Création de 4 candidats pour le vote ! 
+
+Quelle est le nom du 1 candidat ? 
+--> 
+
+Quelle est le nom du 2 candidat ? 
+--> 
+
+Quelle est le nom du 3 candidat ? 
+--> 
+
+Quelle est le nom du 4 candidat ? 
+--> 
+Le candidat numéro 1 se nomme Choco
+Le candidat numéro 2 se nomme Banane
+Le candidat numéro 3 se nomme Mangue
+Le candidat numéro 4 se nomme Fraises
+
+Veuillez choisir le nombre de d'électeurs que vous souhaitez implémentez :
+--> 
+Création de 115 électeurs pour le vote ! 
+
+
+Quelle est le nom du 1 électeur ? 
+--> 
+
+Quelle est le nom du 2 électeur ? 
+--> 
+
+Quelle est le nom du 3 électeur ? 
+--> 
+
+Quelle est le nom du 4 électeur ? 
+--> 
+
+Quelle est le nom du 5 électeur ? 
+--> 
+
+Quelle est le nom du 6 électeur ? 
+--> 
+
+Quelle est le nom du 7 électeur ? 
+--> 
+
+Quelle est le nom du 8 électeur ? 
+--> 
+
+Quelle est le nom du 9 électeur ? 
+--> 
+
+Quelle est le nom du 10 électeur ? 
+--> 
+
+Quelle est le nom du 11 électeur ? 
+--> 
+
+Quelle est le nom du 12 électeur ? 
+--> 
+
+Quelle est le nom du 13 électeur ? 
+--> 
+
+Quelle est le nom du 14 électeur ? 
+--> 
+
+Quelle est le nom du 15 électeur ? 
+--> 
+
+Quelle est le nom du 16 électeur ? 
+--> 
+
+Quelle est le nom du 17 électeur ? 
+--> 
+
+Quelle est le nom du 18 électeur ? 
+--> 
+
+Quelle est le nom du 19 électeur ? 
+--> 
+
+Quelle est le nom du 20 électeur ? 
+--> 
+
+Quelle est le nom du 21 électeur ? 
+--> 
+
+Quelle est le nom du 22 électeur ? 
+--> 
+
+Quelle est le nom du 23 électeur ? 
+--> 
+
+Quelle est le nom du 24 électeur ? 
+--> 
+
+Quelle est le nom du 25 électeur ? 
+--> 
+
+Quelle est le nom du 26 électeur ? 
+--> 
+
+Quelle est le nom du 27 électeur ? 
+--> 
+
+Quelle est le nom du 28 électeur ? 
+--> 
+
+Quelle est le nom du 29 électeur ? 
+--> 
+
+Quelle est le nom du 30 électeur ? 
+--> 
+
+Quelle est le nom du 31 électeur ? 
+--> 
+
+Quelle est le nom du 32 électeur ? 
+--> 
+
+Quelle est le nom du 33 électeur ? 
+--> 
+
+Quelle est le nom du 34 électeur ? 
+--> 
+
+Quelle est le nom du 35 électeur ? 
+--> 
+
+Quelle est le nom du 36 électeur ? 
+--> 
+
+Quelle est le nom du 37 électeur ? 
+--> 
+
+Quelle est le nom du 38 électeur ? 
+--> 
+
+Quelle est le nom du 39 électeur ? 
+--> 
+
+Quelle est le nom du 40 électeur ? 
+--> 
+
+Quelle est le nom du 41 électeur ? 
+--> 
+
+Quelle est le nom du 42 électeur ? 
+--> 
+
+Quelle est le nom du 43 électeur ? 
+--> 
+
+Quelle est le nom du 44 électeur ? 
+--> 
+
+Quelle est le nom du 45 électeur ? 
+--> 
+
+Quelle est le nom du 46 électeur ? 
+--> 
+
+Quelle est le nom du 47 électeur ? 
+--> 
+
+Quelle est le nom du 48 électeur ? 
+--> 
+
+Quelle est le nom du 49 électeur ? 
+--> 
+
+Quelle est le nom du 50 électeur ? 
+--> 
+
+Quelle est le nom du 51 électeur ? 
+--> 
+
+Quelle est le nom du 52 électeur ? 
+--> 
+
+Quelle est le nom du 53 électeur ? 
+--> 
+
+Quelle est le nom du 54 électeur ? 
+--> 
+
+Quelle est le nom du 55 électeur ? 
+--> 
+
+Quelle est le nom du 56 électeur ? 
+--> 
+
+Quelle est le nom du 57 électeur ? 
+--> 
+
+Quelle est le nom du 58 électeur ? 
+--> 
+
+Quelle est le nom du 59 électeur ? 
+--> 
+
+Quelle est le nom du 60 électeur ? 
+--> 
+
+Quelle est le nom du 61 électeur ? 
+--> 
+
+Quelle est le nom du 62 électeur ? 
+--> 
+
+Quelle est le nom du 63 électeur ? 
+--> 
+
+Quelle est le nom du 64 électeur ? 
+--> 
+
+Quelle est le nom du 65 électeur ? 
+--> 
+
+Quelle est le nom du 66 électeur ? 
+--> 
+
+Quelle est le nom du 67 électeur ? 
+--> 
+
+Quelle est le nom du 68 électeur ? 
+--> 
+
+Quelle est le nom du 69 électeur ? 
+--> 
+
+Quelle est le nom du 70 électeur ? 
+--> 
+
+Quelle est le nom du 71 électeur ? 
+--> 
+
+Quelle est le nom du 72 électeur ? 
+--> 
+
+Quelle est le nom du 73 électeur ? 
+--> 
+
+Quelle est le nom du 74 électeur ? 
+--> 
+
+Quelle est le nom du 75 électeur ? 
+--> 
+
+Quelle est le nom du 76 électeur ? 
+--> 
+
+Quelle est le nom du 77 électeur ? 
+--> 
+
+Quelle est le nom du 78 électeur ? 
+--> 
+
+Quelle est le nom du 79 électeur ? 
+--> 
+
+Quelle est le nom du 80 électeur ? 
+--> 
+
+Quelle est le nom du 81 électeur ? 
+--> 
+
+Quelle est le nom du 82 électeur ? 
+--> 
+
+Quelle est le nom du 83 électeur ? 
+--> 
+
+Quelle est le nom du 84 électeur ? 
+--> 
+
+Quelle est le nom du 85 électeur ? 
+--> 
+
+Quelle est le nom du 86 électeur ? 
+--> 
+
+Quelle est le nom du 87 électeur ? 
+--> 
+
+Quelle est le nom du 88 électeur ? 
+--> 
+
+Quelle est le nom du 89 électeur ? 
+--> 
+
+Quelle est le nom du 90 électeur ? 
+--> 
+
+Quelle est le nom du 91 électeur ? 
+--> 
+
+Quelle est le nom du 92 électeur ? 
+--> 
+
+Quelle est le nom du 93 électeur ? 
+--> 
+
+Quelle est le nom du 94 électeur ? 
+--> 
+
+Quelle est le nom du 95 électeur ? 
+--> 
+
+Quelle est le nom du 96 électeur ? 
+--> 
+
+Quelle est le nom du 97 électeur ? 
+--> 
+
+Quelle est le nom du 98 électeur ? 
+--> 
+
+Quelle est le nom du 99 électeur ? 
+--> 
+
+Quelle est le nom du 100 électeur ? 
+--> 
+
+Quelle est le nom du 101 électeur ? 
+--> 
+
+Quelle est le nom du 102 électeur ? 
+--> 
+
+Quelle est le nom du 103 électeur ? 
+--> 
+
+Quelle est le nom du 104 électeur ? 
+--> 
+
+Quelle est le nom du 105 électeur ? 
+--> 
+
+Quelle est le nom du 106 électeur ? 
+--> 
+
+Quelle est le nom du 107 électeur ? 
+--> 
+
+Quelle est le nom du 108 électeur ? 
+--> 
+
+Quelle est le nom du 109 électeur ? 
+--> 
+
+Quelle est le nom du 110 électeur ? 
+--> 
+
+Quelle est le nom du 111 électeur ? 
+--> 
+
+Quelle est le nom du 112 électeur ? 
+--> 
+
+Quelle est le nom du 113 électeur ? 
+--> 
+
+Quelle est le nom du 114 électeur ? 
+--> 
+
+Quelle est le nom du 115 électeur ? 
+--> 
+Choisisez le nombre de points que chaque électeurs détient :
+--> Choisisez le nombre de points que chaque électeurs détient :
+--> Choisisez le nombre de points que chaque électeurs détient :
+--> Choisisez le nombre de points que chaque électeurs détient :
+--> Choisisez le nombre de points que chaque électeurs détient :
+--> Choisisez le nombre de points que chaque électeurs détient :
+--> Choisisez le nombre de points que chaque électeurs détient :
+--> Choisisez le nombre de points que chaque électeurs détient :
+--> Choisisez le nombre de points que chaque électeurs détient :
+--> Choisisez le nombre de points que chaque électeurs détient :
+--> Choisisez le nombre de points que chaque électeurs détient :
+--> Choisisez le nombre de points que chaque électeurs détient :
+--> Choisisez le nombre de points que chaque électeurs détient :
+--> Choisisez le nombre de points que chaque électeurs détient :
+--> Choisisez le nombre de points que chaque électeurs détient :
+--> 
+L'électeur AROUSSI BENTATA, Adam à 4 points
+L'électeur ACEMYAN DE OLIVEIRA, Ewan à 4 points
+L'électeur ACH, Sofia à 4 points
+L'électeur AGGAB, Mohammed à 4 points
+L'électeur AHAMED, Nasser à 4 points
+L'électeur ALLARD, Loan à 4 points
+L'électeur AMARA, Sinda à 4 points
+L'électeur AMROUNE, Akim à 4 points
+L'électeur ANTOINE, Thomas à 4 points
+L'électeur ARBADJI, Maxime à 4 points
+L'électeur ARBOUZ, Iklil à 4 points
+L'électeur ARFI, Maxime à 4 points
+L'électeur ARSENA, Claire à 4 points
+L'électeur ATHERLY, Evan à 4 points
+L'électeur AZOUG, Kylian à 4 points
+L'électeur BAGNIS, Enzo à 4 points
+L'électeur BARBERIS, Alexis à 4 points
+L'électeur BAURENS - TORRENTE, Valentin à 4 points
+L'électeur BEN GADHA, Imen à 4 points
+L'électeur BEN SALEM, Mohamed à 4 points
+L'électeur BENAHMED, Younes à 4 points
+L'électeur BENHAFESSA, Alexandre à 4 points
+L'électeur BILLUART, Florian à 4 points
+L'électeur BORSOTTO, Antonin à 4 points
+L'électeur BOUACHERIA-KEBIR, Imed à 4 points
+L'électeur BOUDHIB, Mohamed-Amine à 4 points
+L'électeur BOUDIA--THOMAS, Akcyl à 4 points
+L'électeur BOUGHERARA, Adam à 4 points
+L'électeur BREST-LESTRADE, Hugo à 4 points
+L'électeur BURBECK, Heather à 4 points
+L'électeur CANTOR, Romain à 4 points
+L'électeur CELESTINE, Samuel à 4 points
+L'électeur CHETIOUI, Willem à 4 points
+L'électeur CLOT-GODARD, Kenji à 4 points
+L'électeur CONTRUCCI, Lou à 4 points
+L'électeur CORDOVANA, Enzo à 4 points
+L'électeur COULPOTIN, Evan à 4 points
+L'électeur CRESPO - MICHAILIDIS, Dimitri à 4 points
+L'électeur CURNIER, Anthony à 4 points
+L'électeur DAHMOUCHE, Wissem à 4 points
+L'électeur DAOUAYRY, Sofian à 4 points
+L'électeur DARGENTOLLE, Francois à 4 points
+L'électeur DECAMPS, Lou à 4 points
+L'électeur DEMANGE, Martin à 4 points
+L'électeur DIAZ, Gwenn à 4 points
+L'électeur DRIOUCHI, Mohamed à 4 points
+L'électeur DUMONT, Aline à 4 points
+L'électeur EDELSTEIN, William à 4 points
+L'électeur EL FAHSSI, Hicham à 4 points
+L'électeur EL HABRIRI, Samy à 4 points
+L'électeur EL KASSOUF, Simon à 4 points
+L'électeur FABRE, Alexis à 4 points
+L'électeur FALFERI, Angelo à 4 points
+L'électeur FAUTSCH, Mathis à 4 points
+L'électeur FERRAT, Jibril à 4 points
+L'électeur FUSELIER, Jules à 4 points
+L'électeur GHEUX, Theo à 4 points
+L'électeur GIUSIANO, Eloise à 4 points
+L'électeur GRIGUER, Nathan à 4 points
+L'électeur GUDENSCHWAGER, Oliver à 4 points
+L'électeur GUL, Furkan à 4 points
+L'électeur GUZELBABA, Imran à 4 points
+L'électeur HADDAD, Mohamed-Amine à 4 points
+L'électeur HELALI, Amin à 4 points
+L'électeur HENG, Hugo à 4 points
+L'électeur HERNANDEZ, Loic à 4 points
+L'électeur HU, Swan à 4 points
+L'électeur JACOB, Alexandre à 4 points
+L'électeur KAMARA, Demba à 4 points
+L'électeur KAMARZINE, Aurelien à 4 points
+L'électeur KOLIAI, Hamza à 4 points
+L'électeur KUROPATWA-BUTTE, Adam à 4 points
+L'électeur LACORRE, Axel à 4 points
+L'électeur LAURIOL-TORCQ, Mathis à 4 points
+L'électeur LE DENMAT, Pierre à 4 points
+L'électeur LEPAPE, Lucas à 4 points
+L'électeur MAILHE, Gustin à 4 points
+L'électeur MARCHITTO, Ilian à 4 points
+L'électeur MARCUS, William à 4 points
+L'électeur MEFTAHI, Mohamed à 4 points
+L'électeur MEGNOUCHE, Riad à 4 points
+L'électeur MEJEAN, Oriane à 4 points
+L'électeur MEKIDICHE, Idris à 4 points
+L'électeur NAHI, Amine à 4 points
+L'électeur NEIRA, Leandro à 4 points
+L'électeur NEPOTU, Gheorghe à 4 points
+L'électeur NGOM, Magueye à 4 points
+L'électeur NOIRET, Maxime à 4 points
+L'électeur ORLANDI, Lenny à 4 points
+L'électeur PANAIVA, Jeremy à 4 points
+L'électeur PALOT, Thomas à 4 points
+L'électeur PIBOULEAU, Jean-Baptiste à 4 points
+L'électeur POGHOSSIAN, Mariam à 4 points
+L'électeur QUILLIEC, Matisse à 4 points
+L'électeur RADJOU, Dinesh à 4 points
+L'électeur RAPANAKIS-BOURG, Marius à 4 points
+L'électeur RATIANANAHARY, Karmen à 4 points
+L'électeur REGNIER, Vassili à 4 points
+L'électeur RIBBE, Jules à 4 points
+L'électeur RINALDI, Antoine à 4 points
+L'électeur RIVA KARAKA ABDEREMANE, Imric à 4 points
+L'électeur ROFFIDAL, Ambre à 4 points
+L'électeur ROMBI, Matis à 4 points
+L'électeur SAADI, Ismail à 4 points
+L'électeur SANTOS JORGE, Francisco à 4 points
+L'électeur SENE, Pablo à 4 points
+L'électeur SISE, Aboubakar à 4 points
+L'électeur STEFANOVITCH, Ilann à 4 points
+L'électeur TAHA CHAOUI, Amir à 4 points
+L'électeur TORCHIN, Maxence à 4 points
+L'électeur TORO, Esteban à 4 points
+L'électeur TRAIKIA, Rayane à 4 points
+L'électeur UYSUN, Ali à 4 points
+L'électeur VALETTE, Lilian à 4 points
+L'électeur WATRIPONT, Jeremy à 4 points
+
+AROUSSI BENTATA, Adam , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+AROUSSI BENTATA, Adam , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+AROUSSI BENTATA, Adam , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+AROUSSI BENTATA, Adam , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+ACEMYAN DE OLIVEIRA, Ewan , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+ACEMYAN DE OLIVEIRA, Ewan , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 1 points.
+ACEMYAN DE OLIVEIRA, Ewan , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+ACH, Sofia , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+ACH, Sofia , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 3 points à Banane.
+Il vous reste 1 points.
+ACH, Sofia , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+AGGAB, Mohammed , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+AGGAB, Mohammed , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 4 points.
+AGGAB, Mohammed , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 4 points.
+AGGAB, Mohammed , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 4 points.
+AHAMED, Nasser , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+AHAMED, Nasser , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 4 points à Banane.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+ALLARD, Loan , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+ALLARD, Loan , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+ALLARD, Loan , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+ALLARD, Loan , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+AMARA, Sinda , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+AMARA, Sinda , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 1 points.
+AMARA, Sinda , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 1 points.
+AMARA, Sinda , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+AMROUNE, Akim , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+AMROUNE, Akim , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Banane.
+Il vous reste 2 points.
+AMROUNE, Akim , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+AMROUNE, Akim , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+ANTOINE, Thomas , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+ANTOINE, Thomas , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+ANTOINE, Thomas , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+ARBADJI, Maxime , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+ARBADJI, Maxime , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Banane.
+Il vous reste 2 points.
+ARBADJI, Maxime , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+ARBOUZ, Iklil , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+ARBOUZ, Iklil , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 4 points.
+ARBOUZ, Iklil , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 3 points.
+ARBOUZ, Iklil , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Fraises.
+Il vous reste 1 points.
+ARFI, Maxime , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+ARFI, Maxime , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 3 points.
+ARFI, Maxime , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 3 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+ARSENA, Claire , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+ARSENA, Claire , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+ARSENA, Claire , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 3 points.
+ARSENA, Claire , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 2 points.
+ATHERLY, Evan , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+ATHERLY, Evan , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+ATHERLY, Evan , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 1 points.
+ATHERLY, Evan , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+AZOUG, Kylian , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+AZOUG, Kylian , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Banane.
+Il vous reste 1 points.
+AZOUG, Kylian , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 1 points.
+AZOUG, Kylian , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+BAGNIS, Enzo , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 3 points à Choco.
+Il vous reste 1 points.
+BAGNIS, Enzo , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+BARBERIS, Alexis , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+BARBERIS, Alexis , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Banane.
+Il vous reste 2 points.
+BARBERIS, Alexis , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+BARBERIS, Alexis , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+BAURENS - TORRENTE, Valentin , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+BAURENS - TORRENTE, Valentin , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 3 points.
+BAURENS - TORRENTE, Valentin , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 1 points.
+BAURENS - TORRENTE, Valentin , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+BEN GADHA, Imen , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+BEN GADHA, Imen , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+BEN GADHA, Imen , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+BEN GADHA, Imen , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> BEN GADHA, Imen , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+BEN SALEM, Mohamed , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+BEN SALEM, Mohamed , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 1 points.
+BEN SALEM, Mohamed , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 1 points.
+BEN SALEM, Mohamed , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+BENAHMED, Younes , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+BENAHMED, Younes , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+BENAHMED, Younes , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+BENAHMED, Younes , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+BENHAFESSA, Alexandre , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+BENHAFESSA, Alexandre , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 3 points.
+BENHAFESSA, Alexandre , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 1 points.
+BENHAFESSA, Alexandre , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+BILLUART, Florian , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+BILLUART, Florian , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+BILLUART, Florian , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 3 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+BORSOTTO, Antonin , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+BORSOTTO, Antonin , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Banane.
+Il vous reste 2 points.
+BORSOTTO, Antonin , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 2 points.
+BORSOTTO, Antonin , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+BOUACHERIA-KEBIR, Imed , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+BOUACHERIA-KEBIR, Imed , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+BOUACHERIA-KEBIR, Imed , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+BOUACHERIA-KEBIR, Imed , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> BOUACHERIA-KEBIR, Imed , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+BOUDHIB, Mohamed-Amine , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+BOUDHIB, Mohamed-Amine , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+BOUDHIB, Mohamed-Amine , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+BOUDHIB, Mohamed-Amine , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+BOUDIA--THOMAS, Akcyl , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+BOUDIA--THOMAS, Akcyl , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Banane.
+Il vous reste 1 points.
+BOUDIA--THOMAS, Akcyl , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+BOUGHERARA, Adam , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+BOUGHERARA, Adam , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 4 points.
+BOUGHERARA, Adam , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 2 points.
+BOUGHERARA, Adam , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Fraises.
+Il vous reste 0 points.
+BREST-LESTRADE, Hugo , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+BREST-LESTRADE, Hugo , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Banane.
+Il vous reste 2 points.
+BREST-LESTRADE, Hugo , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+BREST-LESTRADE, Hugo , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+BURBECK, Heather , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+BURBECK, Heather , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 3 points.
+BURBECK, Heather , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 3 points.
+BURBECK, Heather , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 3 points à Fraises.
+Il vous reste 0 points.
+CANTOR, Romain , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+CANTOR, Romain , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Banane.
+Il vous reste 1 points.
+CANTOR, Romain , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> CANTOR, Romain , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 1 points.
+CANTOR, Romain , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+CELESTINE, Samuel , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+CELESTINE, Samuel , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+CELESTINE, Samuel , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+CELESTINE, Samuel , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+CHETIOUI, Willem , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+CHETIOUI, Willem , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 2 points.
+CHETIOUI, Willem , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+CLOT-GODARD, Kenji , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+CLOT-GODARD, Kenji , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+CLOT-GODARD, Kenji , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 3 points.
+CLOT-GODARD, Kenji , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 2 points.
+CONTRUCCI, Lou , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+CONTRUCCI, Lou , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 2 points.
+CONTRUCCI, Lou , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+CORDOVANA, Enzo , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+CORDOVANA, Enzo , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 2 points.
+CORDOVANA, Enzo , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+CORDOVANA, Enzo , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> CORDOVANA, Enzo , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+COULPOTIN, Evan , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+COULPOTIN, Evan , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Banane.
+Il vous reste 1 points.
+COULPOTIN, Evan , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+CRESPO - MICHAILIDIS, Dimitri , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+CRESPO - MICHAILIDIS, Dimitri , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 3 points.
+CRESPO - MICHAILIDIS, Dimitri , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 2 points.
+CRESPO - MICHAILIDIS, Dimitri , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+CURNIER, Anthony , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+CURNIER, Anthony , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+CURNIER, Anthony , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+DAHMOUCHE, Wissem , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+DAHMOUCHE, Wissem , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+DAHMOUCHE, Wissem , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 2 points.
+DAHMOUCHE, Wissem , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+DAOUAYRY, Sofian , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+DAOUAYRY, Sofian , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 2 points.
+DAOUAYRY, Sofian , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+DAOUAYRY, Sofian , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+DARGENTOLLE, Francois , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+DARGENTOLLE, Francois , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Banane.
+Il vous reste 2 points.
+DARGENTOLLE, Francois , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+DARGENTOLLE, Francois , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+DECAMPS, Lou , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 3 points à Choco.
+Il vous reste 1 points.
+DECAMPS, Lou , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 1 points.
+DECAMPS, Lou , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+DEMANGE, Martin , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+DEMANGE, Martin , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 1 points.
+DEMANGE, Martin , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 1 points.
+DEMANGE, Martin , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+DIAZ, Gwenn , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+DIAZ, Gwenn , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+DIAZ, Gwenn , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+DIAZ, Gwenn , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+DRIOUCHI, Mohamed , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+DRIOUCHI, Mohamed , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Banane.
+Il vous reste 1 points.
+DRIOUCHI, Mohamed , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+DUMONT, Aline , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+DUMONT, Aline , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 4 points.
+DUMONT, Aline , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 2 points.
+DUMONT, Aline , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+EDELSTEIN, William , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+EDELSTEIN, William , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 3 points à Banane.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+EL FAHSSI, Hicham , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+EL FAHSSI, Hicham , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+EL FAHSSI, Hicham , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 3 points.
+EL FAHSSI, Hicham , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Fraises.
+Il vous reste 1 points.
+EL HABRIRI, Samy , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+EL HABRIRI, Samy , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 3 points.
+EL HABRIRI, Samy , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 2 points.
+EL HABRIRI, Samy , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+EL KASSOUF, Simon , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+EL KASSOUF, Simon , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+EL KASSOUF, Simon , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+EL KASSOUF, Simon , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> EL KASSOUF, Simon , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+FABRE, Alexis , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+FABRE, Alexis , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+FABRE, Alexis , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 2 points.
+FABRE, Alexis , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Fraises.
+Il vous reste 0 points.
+FALFERI, Angelo , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+FALFERI, Angelo , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+FALFERI, Angelo , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+FALFERI, Angelo , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+FAUTSCH, Mathis , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+FAUTSCH, Mathis , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+FAUTSCH, Mathis , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 2 points.
+FAUTSCH, Mathis , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Fraises.
+Il vous reste 0 points.
+FERRAT, Jibril , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+FERRAT, Jibril , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+FERRAT, Jibril , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+FERRAT, Jibril , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> FERRAT, Jibril , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+FUSELIER, Jules , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+FUSELIER, Jules , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 3 points.
+FUSELIER, Jules , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 3 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+GHEUX, Theo , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+GHEUX, Theo , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+GHEUX, Theo , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 2 points.
+GHEUX, Theo , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+GIUSIANO, Eloise , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+GIUSIANO, Eloise , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 2 points.
+GIUSIANO, Eloise , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 2 points.
+GIUSIANO, Eloise , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+GRIGUER, Nathan , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 3 points à Choco.
+Il vous reste 1 points.
+GRIGUER, Nathan , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 1 points.
+GRIGUER, Nathan , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> GRIGUER, Nathan , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+GUDENSCHWAGER, Oliver , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+GUDENSCHWAGER, Oliver , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+GUDENSCHWAGER, Oliver , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 3 points.
+GUDENSCHWAGER, Oliver , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Fraises.
+Il vous reste 1 points.
+GUL, Furkan , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+GUL, Furkan , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+GUL, Furkan , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+GUL, Furkan , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+GUZELBABA, Imran , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+GUZELBABA, Imran , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 1 points.
+GUZELBABA, Imran , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> GUZELBABA, Imran , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 1 points.
+GUZELBABA, Imran , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+HADDAD, Mohamed-Amine , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+HADDAD, Mohamed-Amine , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+HADDAD, Mohamed-Amine , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+HELALI, Amin , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+HELALI, Amin , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+HELALI, Amin , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 1 points.
+HELALI, Amin , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+HENG, Hugo , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+HENG, Hugo , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+HENG, Hugo , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+HENG, Hugo , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+HERNANDEZ, Loic , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+HERNANDEZ, Loic , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+HERNANDEZ, Loic , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 2 points.
+HERNANDEZ, Loic , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Fraises.
+Il vous reste 0 points.
+HU, Swan , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+HU, Swan , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+HU, Swan , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+HU, Swan , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+JACOB, Alexandre , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+JACOB, Alexandre , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 1 points.
+JACOB, Alexandre , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> JACOB, Alexandre , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+KAMARA, Demba , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+KAMARA, Demba , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 3 points.
+KAMARA, Demba , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 2 points.
+KAMARA, Demba , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+KAMARZINE, Aurelien , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+KAMARZINE, Aurelien , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+KAMARZINE, Aurelien , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 2 points.
+KAMARZINE, Aurelien , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Fraises.
+Il vous reste 0 points.
+KOLIAI, Hamza , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+KOLIAI, Hamza , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 2 points.
+KOLIAI, Hamza , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+KOLIAI, Hamza , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> KOLIAI, Hamza , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+KUROPATWA-BUTTE, Adam , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+KUROPATWA-BUTTE, Adam , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+KUROPATWA-BUTTE, Adam , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+KUROPATWA-BUTTE, Adam , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+LACORRE, Axel , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+LACORRE, Axel , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 3 points.
+LACORRE, Axel , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 3 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+LAURIOL-TORCQ, Mathis , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+LAURIOL-TORCQ, Mathis , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 3 points.
+LAURIOL-TORCQ, Mathis , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 1 points.
+LAURIOL-TORCQ, Mathis , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+LE DENMAT, Pierre , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+LE DENMAT, Pierre , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+LE DENMAT, Pierre , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 2 points.
+LE DENMAT, Pierre , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+LEPAPE, Lucas , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+LEPAPE, Lucas , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+LEPAPE, Lucas , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+MAILHE, Gustin , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+MAILHE, Gustin , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 3 points.
+MAILHE, Gustin , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 2 points.
+MAILHE, Gustin , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+MARCHITTO, Ilian , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+MARCHITTO, Ilian , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+MARCHITTO, Ilian , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+MARCHITTO, Ilian , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+MARCUS, William , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 3 points à Choco.
+Il vous reste 1 points.
+MARCUS, William , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+MEFTAHI, Mohamed , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+MEFTAHI, Mohamed , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Banane.
+Il vous reste 2 points.
+MEFTAHI, Mohamed , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+MEFTAHI, Mohamed , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+MEGNOUCHE, Riad , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+MEGNOUCHE, Riad , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+MEGNOUCHE, Riad , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+MEJEAN, Oriane , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+MEJEAN, Oriane , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+MEJEAN, Oriane , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 1 points.
+MEJEAN, Oriane , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+MEKIDICHE, Idris , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+MEKIDICHE, Idris , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+MEKIDICHE, Idris , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+MEKIDICHE, Idris , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+NAHI, Amine , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+NAHI, Amine , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+NAHI, Amine , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 2 points.
+NAHI, Amine , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+NEIRA, Leandro , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+NEIRA, Leandro , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 1 points.
+NEIRA, Leandro , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> NEIRA, Leandro , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 1 points.
+NEIRA, Leandro , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+NEPOTU, Gheorghe , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+NEPOTU, Gheorghe , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+NEPOTU, Gheorghe , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+NEPOTU, Gheorghe , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+NGOM, Magueye , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+NGOM, Magueye , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+NGOM, Magueye , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+NOIRET, Maxime , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+NOIRET, Maxime , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+NOIRET, Maxime , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 3 points.
+NOIRET, Maxime , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Fraises.
+Il vous reste 1 points.
+ORLANDI, Lenny , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+ORLANDI, Lenny , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 2 points.
+ORLANDI, Lenny , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+PANAIVA, Jeremy , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+PANAIVA, Jeremy , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+PANAIVA, Jeremy , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 2 points.
+PANAIVA, Jeremy , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+PALOT, Thomas , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+PALOT, Thomas , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+PALOT, Thomas , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+PALOT, Thomas , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> PALOT, Thomas , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+PIBOULEAU, Jean-Baptiste , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+PIBOULEAU, Jean-Baptiste , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+PIBOULEAU, Jean-Baptiste , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 2 points.
+PIBOULEAU, Jean-Baptiste , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> PIBOULEAU, Jean-Baptiste , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+POGHOSSIAN, Mariam , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+POGHOSSIAN, Mariam , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+POGHOSSIAN, Mariam , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 2 points.
+POGHOSSIAN, Mariam , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+QUILLIEC, Matisse , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+QUILLIEC, Matisse , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Banane.
+Il vous reste 1 points.
+QUILLIEC, Matisse , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+RADJOU, Dinesh , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+RADJOU, Dinesh , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+RADJOU, Dinesh , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 2 points.
+RADJOU, Dinesh , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+RAPANAKIS-BOURG, Marius , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+RAPANAKIS-BOURG, Marius , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+RAPANAKIS-BOURG, Marius , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+RAPANAKIS-BOURG, Marius , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+RATIANANAHARY, Karmen , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+RATIANANAHARY, Karmen , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+RATIANANAHARY, Karmen , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+REGNIER, Vassili , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+REGNIER, Vassili , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+REGNIER, Vassili , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 2 points.
+REGNIER, Vassili , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 2 points.
+RIBBE, Jules , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+RIBBE, Jules , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 1 points.
+RIBBE, Jules , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+RINALDI, Antoine , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+RINALDI, Antoine , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+RINALDI, Antoine , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+RINALDI, Antoine , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+RIVA KARAKA ABDEREMANE, Imric , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 2 points à Choco.
+Il vous reste 2 points.
+RIVA KARAKA ABDEREMANE, Imric , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 1 points.
+RIVA KARAKA ABDEREMANE, Imric , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+ROFFIDAL, Ambre , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+ROFFIDAL, Ambre , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+ROFFIDAL, Ambre , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 2 points.
+ROFFIDAL, Ambre , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+ROMBI, Matis , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+ROMBI, Matis , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Banane.
+Il vous reste 1 points.
+ROMBI, Matis , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+SAADI, Ismail , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+SAADI, Ismail , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+SAADI, Ismail , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 2 points.
+SAADI, Ismail , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 1 points.
+SANTOS JORGE, Francisco , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+SANTOS JORGE, Francisco , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+SANTOS JORGE, Francisco , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 2 points.
+SANTOS JORGE, Francisco , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Fraises.
+Il vous reste 0 points.
+SENE, Pablo , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+SENE, Pablo , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+SENE, Pablo , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+SENE, Pablo , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+SISE, Aboubakar , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+SISE, Aboubakar , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+SISE, Aboubakar , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+SISE, Aboubakar , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> SISE, Aboubakar , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Fraises.
+Il vous reste 1 points.
+STEFANOVITCH, Ilann , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+STEFANOVITCH, Ilann , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Banane.
+Il vous reste 1 points.
+STEFANOVITCH, Ilann , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 1 points.
+STEFANOVITCH, Ilann , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+TAHA CHAOUI, Amir , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+TAHA CHAOUI, Amir , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+TAHA CHAOUI, Amir , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+TAHA CHAOUI, Amir , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+TORCHIN, Maxence , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+TORCHIN, Maxence , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 3 points.
+TORCHIN, Maxence , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 3 points à Mangue.
+Il vous reste 0 points.
+Vous n'avez plus de points a distribuer. 
+
+TORO, Esteban , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+TORO, Esteban , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Banane.
+Il vous reste 3 points.
+TORO, Esteban , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Mangue.
+Il vous reste 1 points.
+TORO, Esteban , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+TRAIKIA, Rayane , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+TRAIKIA, Rayane , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+TRAIKIA, Rayane , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 2 points.
+TRAIKIA, Rayane , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 2 points à Fraises.
+Il vous reste 0 points.
+UYSUN, Ali , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 0 points à Choco.
+Il vous reste 4 points.
+UYSUN, Ali , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 3 points.
+UYSUN, Ali , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 0 points à Mangue.
+Il vous reste 3 points.
+UYSUN, Ali , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 2 points à Fraises.
+Il vous reste 1 points.
+VALETTE, Lilian , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+VALETTE, Lilian , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+VALETTE, Lilian , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+VALETTE, Lilian , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+WATRIPONT, Jeremy , veuillez choisir le nombre de points que vous souhaitez distribuer à Choco
+Pour rappel vous avez 4 points. 
+--> 
+Vous avez distribué 1 points à Choco.
+Il vous reste 3 points.
+WATRIPONT, Jeremy , veuillez choisir le nombre de points que vous souhaitez distribuer à Banane
+Pour rappel vous avez 3 points. 
+--> 
+Vous avez distribué 1 points à Banane.
+Il vous reste 2 points.
+WATRIPONT, Jeremy , veuillez choisir le nombre de points que vous souhaitez distribuer à Mangue
+Pour rappel vous avez 2 points. 
+--> 
+Vous avez distribué 1 points à Mangue.
+Il vous reste 1 points.
+WATRIPONT, Jeremy , veuillez choisir le nombre de points que vous souhaitez distribuer à Fraises
+Pour rappel vous avez 1 points. 
+--> 
+Vous avez distribué 1 points à Fraises.
+Il vous reste 0 points.
+Choco à récolter 107 points !
+Banane à récolter 111 points !
+Mangue à récolter 115 points !
+Fraises à récolter 76 points !
+
+Le gagnants est [31mMangue[0m avec 115 points

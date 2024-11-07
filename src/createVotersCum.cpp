@@ -14,6 +14,7 @@ vector<VotersCum> createVoters(vector<VotersCum>VectorVoters)
     {
         cout << "Veuillez choisir le nombre de d'électeurs que vous souhaitez implémentez :" << endl << "--> ";
         cin >> numberVoters;
+        cin.ignore();
         
         if (cin.fail()) 
         {   
@@ -27,9 +28,32 @@ vector<VotersCum> createVoters(vector<VotersCum>VectorVoters)
     }
     isGood = false;
     cout << endl; 
+
     //Initialsation d'un vector qui contient les électeurs
-    cout << "Création de " << numberVoters << " électeurs pour le vote ! " << endl <<endl;
+    cout << "Création de " << numberVoters << " électeurs pour le vote ! " << endl << endl;
     VectorVoters.resize(numberVoters);
+
+    //Attribution du nom des electeurs
+    for(int i = 0; i < numberVoters ; i++)
+    {
+        string name;
+
+        cout << endl << "Quelle est le nom du " << i + 1 << " électeur ? " << endl << "--> ";
+        getline(cin, name);
+
+        if( name == " " || name == "\t" || name == "\n")
+        {
+            cerr << "Veuillez entrée un nom valide ! " << endl;
+            cin.ignore();
+            getline(cin , name);
+            cin.ignore();
+        }
+        else 
+        {
+            VectorVoters[i].SetName(name);
+            cout << endl;
+        }
+    }
 
     //Attribution des points au électeurs
     int pointsDistributed = 0;
@@ -55,10 +79,12 @@ vector<VotersCum> createVoters(vector<VotersCum>VectorVoters)
     {
         VectorVoters[i].SetPoint(pointsDistributed);
     }
+
     cout << endl;
+
     for (int i = 0; i <= numberVoters - 1; i++)
     {
-        cout << "L'électeur " << i + 1 << " à " << VectorVoters[i].GetPoint() << " points" << endl;
+        cout << "L'électeur " << VectorVoters[i].GetName() << " à " << VectorVoters[i].GetPoint() << " points" << endl;
     }
     cout << endl;
         

@@ -1,0 +1,587 @@
+4
+Caramel
+Violette
+Litchi
+Pate Thermique
+115
+AROUSSI BENTATA, Adam
+ACEMYAN DE OLIVEIRA, Ewan
+ACH, Sofia
+AGGAB, Mohammed
+AHAMED, Nasser
+ALLARD, Loan
+AMARA, Sinda
+AMROUNE, Akim
+ANTOINE, Thomas
+ARBADJI, Maxime
+ARBOUZ, Iklil
+ARFI, Maxime
+ARSENA, Claire
+ATHERLY, Evan
+AZOUG, Kylian
+BAGNIS, Enzo
+BARBERIS, Alexis
+BAURENS - TORRENTE, Valentin
+BEN GADHA, Imen
+BEN SALEM, Mohamed
+BENAHMED, Younes
+BENHAFESSA, Alexandre
+BILLUART, Florian
+BORSOTTO, Antonin
+BOUACHERIA-KEBIR, Imed
+BOUDHIB, Mohamed-Amine
+BOUDIA--THOMAS, Akcyl
+BOUGHERARA, Adam
+BREST-LESTRADE, Hugo
+BURBECK, Heather
+CANTOR, Romain
+CELESTINE, Samuel
+CHETIOUI, Willem
+CLOT-GODARD, Kenji
+CONTRUCCI, Lou
+CORDOVANA, Enzo
+COULPOTIN, Evan
+CRESPO - MICHAILIDIS, Dimitri
+CURNIER, Anthony
+DAHMOUCHE, Wissem
+DAOUAYRY, Sofian
+DARGENTOLLE, Francois
+DECAMPS, Lou
+DEMANGE, Martin
+DIAZ, Gwenn
+DRIOUCHI, Mohamed
+DUMONT, Aline
+EDELSTEIN, William
+EL FAHSSI, Hicham
+EL HABRIRI, Samy
+EL KASSOUF, Simon
+FABRE, Alexis
+FALFERI, Angelo
+FAUTSCH, Mathis
+FERRAT, Jibril
+FUSELIER, Jules
+GHEUX, Theo
+GIUSIANO, Eloise
+GRIGUER, Nathan
+GUDENSCHWAGER, Oliver
+GUL, Furkan
+GUZELBABA, Imran
+HADDAD, Mohamed-Amine
+HELALI, Amin
+HENG, Hugo
+HERNANDEZ, Loic
+HU, Swan
+JACOB, Alexandre
+KAMARA, Demba
+KAMARZINE, Aurelien
+KOLIAI, Hamza
+KUROPATWA-BUTTE, Adam
+LACORRE, Axel
+LAURIOL-TORCQ, Mathis
+LE DENMAT, Pierre
+LEPAPE, Lucas
+MAILHE, Gustin
+MARCHITTO, Ilian
+MARCUS, William
+MEFTAHI, Mohamed
+MEGNOUCHE, Riad
+MEJEAN, Oriane
+MEKIDICHE, Idris
+NAHI, Amine
+NEIRA, Leandro
+NEPOTU, Gheorghe
+NGOM, Magueye
+NOIRET, Maxime
+ORLANDI, Lenny
+PANAIVA, Jeremy
+PALOT, Thomas
+PIBOULEAU, Jean-Baptiste
+POGHOSSIAN, Mariam
+QUILLIEC, Matisse
+RADJOU, Dinesh
+RAPANAKIS-BOURG, Marius
+RATIANANAHARY, Karmen
+REGNIER, Vassili
+RIBBE, Jules
+RINALDI, Antoine
+RIVA KARAKA ABDEREMANE, Imric
+ROFFIDAL, Ambre
+ROMBI, Matis
+SAADI, Ismail
+SANTOS JORGE, Francisco
+SENE, Pablo
+SISE, Aboubakar
+STEFANOVITCH, Ilann
+TAHA CHAOUI, Amir
+TORCHIN, Maxence
+TORO, Esteban
+TRAIKIA, Rayane
+UYSUN, Ali
+VALETTE, Lilian
+WATRIPONT, Jeremy
+ZEGGANE, Sofien
+4
+1
+1
+1
+1
+2
+1
+1
+0
+3
+1
+0
+0
+0
+0
+0
+4
+1
+1
+1
+1
+2
+1
+0
+1
+0
+2
+1
+1
+1
+1
+2
+0
+2
+2
+0
+0
+1
+2
+1
+0
+3
+0
+1
+0
+1
+0
+1
+2
+1
+1
+2
+0
+0
+3
+1
+0
+2
+1
+0
+1
+0
+2
+1
+1
+1
+1
+2
+0
+2
+1
+0
+1
+1
+1
+1
+1
+1
+0
+2
+1
+0
+1
+3
+0
+2
+0
+1
+1
+1
+1
+2
+0
+1
+1
+1
+1
+1
+2
+1
+0
+0
+2
+2
+0
+2
+1
+0
+1
+0
+0
+3
+1
+2
+2
+0
+0
+1
+1
+1
+1
+2
+0
+2
+0
+1
+0
+1
+2
+0
+2
+2
+0
+1
+2
+0
+1
+2
+1
+1
+0
+1
+1
+1
+1
+2
+0
+1
+1
+1
+2
+0
+1
+1
+0
+2
+1
+0
+3
+0
+1
+2
+1
+0
+1
+1
+1
+1
+1
+1
+2
+1
+0
+0
+2
+1
+1
+3
+0
+1
+0
+2
+1
+0
+1
+1
+1
+1
+1
+2
+0
+1
+1
+0
+2
+1
+1
+1
+1
+1
+1
+0
+2
+1
+1
+1
+2
+0
+1
+0
+3
+0
+1
+1
+1
+2
+0
+0
+1
+3
+0
+2
+1
+0
+1
+0
+2
+1
+1
+1
+0
+2
+1
+2
+0
+1
+1
+1
+2
+0
+1
+2
+0
+1
+1
+1
+1
+1
+1
+0
+2
+1
+1
+1
+0
+2
+1
+2
+1
+1
+0
+1
+1
+1
+1
+0
+2
+2
+0
+1
+2
+0
+1
+1
+1
+1
+1
+0
+3
+1
+0
+2
+1
+0
+1
+1
+1
+1
+1
+2
+1
+0
+1
+1
+1
+1
+1
+0
+3
+1
+0
+2
+1
+0
+1
+1
+2
+0
+1
+2
+0
+1
+1
+1
+1
+1
+1
+0
+1
+2
+1
+2
+0
+1
+1
+1
+1
+1
+1
+1
+2
+0
+1
+0
+2
+2
+0
+2
+1
+1
+0
+1
+1
+1
+1
+2
+0
+1
+1
+0
+3
+1
+0
+1
+1
+1
+1
+2
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+0
+1
+1
+0
+2
+1
+1
+1
+1
+1
+1
+2
+1
+1
+0
+1
+1
+1
+1
+2
+1
+0
+1
+1
+1
+1
+1
+0
+2
+1
+1
+1
+1
+1
+1
+1
+2
+0
+1
+2
+0
+1
+1
+1
+1
+1
+1
+0
+3
+1
+0
+2
+1
+0
+1
+1
+2
+0
+1
+0
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+0
+1
+1
+1
+1
+1
+2
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1

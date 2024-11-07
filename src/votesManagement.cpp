@@ -23,7 +23,7 @@ vector<CandidatesCum>collectVotes(vector<VotersCum> vectorVoters, vector<Candida
                 break;
             }
             
-            cout << "Electeur numéro " << v + 1 << " , veuillez choisir le nombre de points que vous souhaitez distribuer à "
+            cout << vectorVoters[v].GetName() << " , veuillez choisir le nombre de points que vous souhaitez distribuer à "
                  << vectorCandidates[c].getName() << endl << "Pour rappel vous avez " << vectorVoters[v].GetPoint() << " points. " << endl << "--> ";
             cin >> pointCollected;
 
@@ -96,11 +96,11 @@ string isWinnerName(vector<CandidatesCum> vectorCandidatesWin)
     if (vectorCandidatesWinFinal.size() == 1 ) 
     {
         winnerName = vectorCandidatesWinFinal[0].getName();
-        cout << endl << "Le gagnants est " << "\033[31m" <<winnerName << "\033[0m" << " avec " << vectorCandidatesWinFinal[0].getPointCollected() << " points" << endl;
+        cout << endl << "Le goût de glace gagnant est " << "\033[31m" <<winnerName << "\033[0m" << " avec " << vectorCandidatesWinFinal[0].getPointCollected() << " points" << endl;
     }
     else 
     {
-        cout << vectorCandidatesWinFinal.size() << " candidats sont arrivés à égalité." << endl
+        cout << vectorCandidatesWinFinal.size() << " glaces sont arrivés à égalité." << endl
              << "Il s'agit de : " << endl;
         for (size_t n = 0; n < vectorCandidatesWinFinal.size() ; n++) 
         {
@@ -109,15 +109,6 @@ string isWinnerName(vector<CandidatesCum> vectorCandidatesWin)
     }
     return winnerName;
 }
-
-
-
-
-
-
-
-
-
 
 
 

@@ -18,8 +18,8 @@ int main()
     vector<CandidatesCum> VectorCandidates;
 
     //Appel des fonctions pour manipuler mes vecteurs
-    const vector <VotersCum> a = createVoters(VectorVoters);
     const vector <CandidatesCum> b = createCandidate( VectorCandidates);
+    const vector <VotersCum> a = createVoters(VectorVoters);
     const vector<CandidatesCum> win = collectVotes(a, b);
     isWinnerName(win);
 }
