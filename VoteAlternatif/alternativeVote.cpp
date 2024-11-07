@@ -87,7 +87,7 @@ CandidatesAlt alternativeVote(vector<VotersAlt> vectorVoters, vector<CandidatesA
 
                 cout << "entrer le nom du candidat que vous souhaitez voté(e) : " ;
                 cin >> tempcandidate;
-                cout << "\n\n\n\n\n\n\n";
+                cout << "\n";
 
                 vectorVoters[v].setVote(tempcandidate);
 

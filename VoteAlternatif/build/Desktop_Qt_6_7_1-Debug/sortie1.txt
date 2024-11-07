@@ -1,0 +1,3071 @@
+Veuillez choisir le nombre de d'électeurs que vous souhaitez implémentez :
+Création de 115 électeurs pour le vote ! 
+Veuillez choisir le nombre de candidats que vous souhaitez implémentez :
+: Création de 4 candidats pour le vote ! 
+Quelle est le nom du 1 candidat ? 
+
+
+Quelle est le nom du 2 candidat ? 
+
+
+Quelle est le nom du 3 candidat ? 
+
+
+Quelle est le nom du 4 candidat ? 
+
+
+Le candidat numéro 1 se nomme Choco
+Le candidat numéro 2 se nomme Banane
+Le candidat numéro 3 se nomme Mangue
+Le candidat numéro 4 se nomme Fraises
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Fraises
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Choco
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Banane
+
+
+
+
+
+
+
+Voici les candidats qui se presente : 
+- Choco
+- Banane
+- Mangue
+- Fraises
+entrer le nom du candidat que vous souhaitez voté(e) : Vous avez voté pour Mangue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Les candidats avec le moins de votes sont : Fraises 
+Le candidat suivant a été éliminé : Fraises
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+- Mangue
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Les candidats avec le moins de votes sont : Mangue 
+Le candidat suivant a été éliminé : Mangue
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Votre candidat a été éliminé
+Voici les candidats qui sont toujours present : 
+- Choco
+- Banane
+entrer le nom du candidat que vous souhaitez voté(e) : 
+
+
+
+
+
+
+Les candidats avec le moins de votes sont : Banane 
+Le candidat suivant a été éliminé : Banane
+Le gagnant est : Choco avec 33 %
+Choco

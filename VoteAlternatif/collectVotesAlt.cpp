@@ -27,7 +27,7 @@ vector<VotersAlt> collectVotesAlt(vector<VotersAlt> vectorVoters, vector<Candida
             {
                 vectorCandidates[c].Vote += 1;
                 cout << "Vous avez voté pour " << vectorCandidates[c].getName() << endl;
-                cout << "\n\n\n\n\n\n\n";
+                cout << "\n";
             }
         }
     }
