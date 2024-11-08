@@ -7,17 +7,17 @@ vector<CandidatesAlt> createCandidateAlt(vector<CandidatesAlt> VectorCandidates)
 {
     //Enregistrement du nombre de candidats que l'on souhaite créer
     // cout << "Veuillez choisir le nombre de candidats que vous souhaitez implémentez :" << endl << ": ";
-    int numberCandidate;
+    size_t numberCandidate;
     cin >> numberCandidate;
 
     //Initialisation d'un vector qui contient les candidats
     // cout << "Création de " << numberCandidate << " candidats pour le vote ! " << endl;
     VectorCandidates.resize(numberCandidate);
 
-    string name;
     //Initialiser le nom des candidats.
-    for(int i = 0; i < numberCandidate; ++i)
+    for(size_t i = 0; i < numberCandidate; ++i)
     {
+        string name;
         // cout << "Quelle est le nom du " << i + 1 << " candidat ? " << endl;
         cin >> name ;
         VectorCandidates[i].setName(name);
