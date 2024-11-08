@@ -9,7 +9,6 @@ vector<CandidatesAlt> countVotesAlt(vector<VotersAlt> vectorVoters, vector<Candi
     // vectorVoters
     for (size_t v = 0; v < vectorVoters.size() ; ++v)
     {
-        cout << "\n";
         for(size_t c = 0; c < vectorCandidates.size() ; ++c)
         {
             if (vectorVoters[v].getVote() == vectorCandidates[c].getName())

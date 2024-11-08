@@ -11,13 +11,13 @@ vector<VotersAlt> collectVotesAlt(vector<VotersAlt> vectorVoters, vector<Candida
     // vectorVoters
     for (size_t v = 0; v < vectorVoters.size() ; ++v)
     {
-        cout << "Voici les candidats qui se presente : " << endl;
-        for (size_t c = 0; c < vectorCandidates.size() ; ++c)
-        {
-            cout << "- " << vectorCandidates[c].getName() << endl;
-        }
+        // cout << "Voici les candidats qui se presente : " << endl;
+        // for (size_t c = 0; c < vectorCandidates.size() ; ++c)
+        // {
+        //     cout << "- " << vectorCandidates[c].getName() << endl;
+        // }
 
-        cout << "entrer le nom du candidat que vous souhaitez voté(e) : " ;
+        // cout << "entrer le nom du candidat que vous souhaitez voté(e) : " ;
         cin >> nameCandidate;
         vectorVoters[v].setVote(nameCandidate);
 
@@ -26,8 +26,7 @@ vector<VotersAlt> collectVotesAlt(vector<VotersAlt> vectorVoters, vector<Candida
             if (nameCandidate == vectorCandidates[c].getName())
             {
                 vectorCandidates[c].Vote += 1;
-                cout << "Vous avez voté pour " << vectorCandidates[c].getName() << endl;
-                cout << "\n";
+                //cout << "Vous avez voté pour " << vectorCandidates[c].getName() << endl;
             }
         }
     }

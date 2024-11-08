@@ -27,8 +27,8 @@ CandidatesAlt alternativeVote(vector<VotersAlt> vectorVoters, vector<CandidatesA
             {
                 vectorCandidatesAfterVote[c].Winner = true;
 
-                cout << "Le gagnant est : " << vectorCandidatesAfterVote[c].getName() << " avec "
-                     << (vectorCandidatesAfterVote[0].getVoteCollected() * 100 ) / vectorVoters.size() * 100 << " %" << endl;
+                // cout << "Le gagnant est : " << vectorCandidatesAfterVote[c].getName() << " avec "
+                //      << (vectorCandidatesAfterVote[0].getVoteCollected() * 100 ) / vectorVoters.size() * 100 << " %" << endl;
 
                 return vectorCandidatesAfterVote[c];
             }
@@ -41,16 +41,16 @@ CandidatesAlt alternativeVote(vector<VotersAlt> vectorVoters, vector<CandidatesA
 
         }
 
-        cout << "Les candidats avec le moins de votes sont : ";
+        // cout << "Les candidats avec le moins de votes sont : ";
         for (size_t i = 0; i < cmin.size(); ++i) {
-            cout << vectorCandidatesAfterVote[cmin[i]].getName() << " ";
+            // cout << vectorCandidatesAfterVote[cmin[i]].getName() << " ";
         }
-        cout << endl;
+        // cout << endl;
 
         if (cmin.size() == 1)
         {
             loserName = vectorCandidatesAfterVote[cmin[0]].getName();
-            cout << "Le candidat suivant a été éliminé : " << loserName << endl;
+            // cout << "Le candidat suivant a été éliminé : " << loserName << endl;
             vectorCandidatesAfterVote.erase(vectorCandidatesAfterVote.begin() + cmin[0]);
         }
 
@@ -58,7 +58,7 @@ CandidatesAlt alternativeVote(vector<VotersAlt> vectorVoters, vector<CandidatesA
         {
             unsigned rd = rand() % cmin.size();
             loserName = vectorCandidatesAfterVote[cmin[rd]].getName();
-            cout << "Le candidat suivant a été éliminé : " << loserName << endl;
+            // cout << "Le candidat suivant a été éliminé : " << loserName << endl;
             vectorCandidatesAfterVote.erase(vectorCandidatesAfterVote.begin() + cmin[rd]);
         }
 
@@ -66,8 +66,8 @@ CandidatesAlt alternativeVote(vector<VotersAlt> vectorVoters, vector<CandidatesA
         {
             vectorCandidatesAfterVote[0].Winner = true;
 
-            cout << "Le gagnant est : " << vectorCandidatesAfterVote[0].getName() << " avec "
-                 << (vectorCandidatesAfterVote[0].getVoteCollected() * 100 ) / vectorVoters.size() << " %" << endl;
+            // cout << "Le gagnant est : " << vectorCandidatesAfterVote[0].getName() << " avec "
+            //      << (vectorCandidatesAfterVote[0].getVoteCollected() * 100 ) / vectorVoters.size() << " %" << endl;
 
             return vectorCandidatesAfterVote[0];
         }
@@ -77,19 +77,20 @@ CandidatesAlt alternativeVote(vector<VotersAlt> vectorVoters, vector<CandidatesA
             if (vectorVoters[v].getVote() == loserName)
             {
                 string tempcandidate;
-                cout << "Votre candidat a été éliminé" << endl;
-                cout << "Voici les candidats qui sont toujours present : " << endl;
+                // cout << "Votre candidat a été éliminé" << endl;
+                // cout << "Voici les candidats qui sont toujours present : " << endl;
 
-                for (size_t c = 0; c < vectorCandidatesAfterVote.size() ; ++c)
-                {
-                    cout << "- " << vectorCandidatesAfterVote[c].getName() << endl;
-                }
+                // for (size_t c = 0; c < vectorCandidatesAfterVote.size() ; ++c)
+                // {
+                //     cout << "- " << vectorCandidatesAfterVote[c].getName() << endl;
+                // }
 
-                cout << "entrer le nom du candidat que vous souhaitez voté(e) : " ;
-                cin >> tempcandidate;
-                cout << "\n";
+                //cout << "entrer le nom du candidat que vous souhaitez voté(e) : " ;
+                cin >> tempcandidate; //redirection des votes du candidats eliminé
 
                 vectorVoters[v].setVote(tempcandidate);
+
+                //cout << "Vous avez voté pour " << vectorVoters[v].getVote() << endl << endl;
 
                 for (size_t c = 0; c < vectorCandidatesAfterVote.size() ; ++c)
                 {

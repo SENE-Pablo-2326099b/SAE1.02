@@ -16,6 +16,7 @@ using namespace std;
 
 int main()
 {
+    // Enlever les cout en commentaire si vous voulez voir le processus de debugage (ne pas enlever pour les tests oracles)
     vector<VotersAlt> VectorVoters;
     vector<CandidatesAlt> VectorCandidates;
 
