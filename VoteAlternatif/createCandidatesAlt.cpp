@@ -14,10 +14,10 @@ vector<CandidatesAlt> createCandidateAlt(vector<CandidatesAlt> VectorCandidates)
     // cout << "Création de " << numberCandidate << " candidats pour le vote ! " << endl;
     VectorCandidates.resize(numberCandidate);
 
+    string name;
     //Initialiser le nom des candidats.
     for(int i = 0; i < numberCandidate; ++i)
     {
-        string name;
         // cout << "Quelle est le nom du " << i + 1 << " candidat ? " << endl;
         cin >> name ;
         VectorCandidates[i].setName(name);
